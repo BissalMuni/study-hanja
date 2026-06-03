@@ -1,0 +1,18 @@
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+
+# 추출 중간 산출물
+_raw_*.txt
+_peek_*.txt
+_err.txt
+_dev*.log
+data/Unihan.zip
+data/CJKRadicals.txt
+
+# 배포용/기출 원본 바이너리 (대용량)
+docs/*.hwp
+docs/*.pdf
+__pycache__/

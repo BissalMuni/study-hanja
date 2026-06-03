@@ -1,0 +1,12103 @@
+[
+  {
+    "char": "價",
+    "hun": "값",
+    "sori": "가",
+    "readings": [
+      {
+        "hun": "값",
+        "sori": "가"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "街",
+    "hun": "거리",
+    "sori": "가",
+    "readings": [
+      {
+        "hun": "거리",
+        "sori": "가"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "假",
+    "hun": "거짓",
+    "sori": "가",
+    "readings": [
+      {
+        "hun": "거짓",
+        "sori": "가"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "歌",
+    "hun": "노래",
+    "sori": "가",
+    "readings": [
+      {
+        "hun": "노래",
+        "sori": "가"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "加",
+    "hun": "더할",
+    "sori": "가",
+    "readings": [
+      {
+        "hun": "더할",
+        "sori": "가"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "可",
+    "hun": "옳을",
+    "sori": "가",
+    "readings": [
+      {
+        "hun": "옳을",
+        "sori": "가"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "家",
+    "hun": "집",
+    "sori": "가",
+    "readings": [
+      {
+        "hun": "집",
+        "sori": "가"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "暇",
+    "hun": "틈/겨를",
+    "sori": "가",
+    "readings": [
+      {
+        "hun": "틈/겨를",
+        "sori": "가"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "各",
+    "hun": "각각",
+    "sori": "각",
+    "readings": [
+      {
+        "hun": "각각",
+        "sori": "각"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "覺",
+    "hun": "깨달을",
+    "sori": "각",
+    "readings": [
+      {
+        "hun": "깨달을",
+        "sori": "각"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "角",
+    "hun": "뿔",
+    "sori": "각",
+    "readings": [
+      {
+        "hun": "뿔",
+        "sori": "각"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "刻",
+    "hun": "새길",
+    "sori": "각",
+    "readings": [
+      {
+        "hun": "새길",
+        "sori": "각"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "簡",
+    "hun": "대쪽/간략할",
+    "sori": "간",
+    "readings": [
+      {
+        "hun": "대쪽/간략할",
+        "sori": "간"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "干",
+    "hun": "방패",
+    "sori": "간",
+    "readings": [
+      {
+        "hun": "방패",
+        "sori": "간"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "看",
+    "hun": "볼",
+    "sori": "간",
+    "readings": [
+      {
+        "hun": "볼",
+        "sori": "간"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "間",
+    "hun": "사이",
+    "sori": "간",
+    "readings": [
+      {
+        "hun": "사이",
+        "sori": "간"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "敢",
+    "hun": "감히/구태여",
+    "sori": "감",
+    "readings": [
+      {
+        "hun": "감히/구태여",
+        "sori": "감"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "感",
+    "hun": "느낄",
+    "sori": "감",
+    "readings": [
+      {
+        "hun": "느낄",
+        "sori": "감"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "甘",
+    "hun": "달",
+    "sori": "감",
+    "readings": [
+      {
+        "hun": "달",
+        "sori": "감"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "減",
+    "hun": "덜",
+    "sori": "감",
+    "readings": [
+      {
+        "hun": "덜",
+        "sori": "감"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "監",
+    "hun": "볼",
+    "sori": "감",
+    "readings": [
+      {
+        "hun": "볼",
+        "sori": "감"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "甲",
+    "hun": "갑옷",
+    "sori": "갑",
+    "readings": [
+      {
+        "hun": "갑옷",
+        "sori": "갑"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "江",
+    "hun": "강",
+    "sori": "강",
+    "readings": [
+      {
+        "hun": "강",
+        "sori": "강"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "強",
+    "hun": "강할",
+    "sori": "강",
+    "readings": [
+      {
+        "hun": "강할",
+        "sori": "강"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "降",
+    "hun": "내릴",
+    "sori": "강",
+    "readings": [
+      {
+        "hun": "내릴",
+        "sori": "강"
+      },
+      {
+        "hun": "항복할",
+        "sori": "항"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "講",
+    "hun": "욀",
+    "sori": "강",
+    "readings": [
+      {
+        "hun": "욀",
+        "sori": "강"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "康",
+    "hun": "편안",
+    "sori": "강",
+    "readings": [
+      {
+        "hun": "편안",
+        "sori": "강"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "改",
+    "hun": "고칠",
+    "sori": "개",
+    "readings": [
+      {
+        "hun": "고칠",
+        "sori": "개"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "個",
+    "hun": "낱",
+    "sori": "개",
+    "readings": [
+      {
+        "hun": "낱",
+        "sori": "개"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "開",
+    "hun": "열",
+    "sori": "개",
+    "readings": [
+      {
+        "hun": "열",
+        "sori": "개"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "客",
+    "hun": "손",
+    "sori": "객",
+    "readings": [
+      {
+        "hun": "손",
+        "sori": "객"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "去",
+    "hun": "갈",
+    "sori": "거",
+    "readings": [
+      {
+        "hun": "갈",
+        "sori": "거"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "據",
+    "hun": "근거",
+    "sori": "거",
+    "readings": [
+      {
+        "hun": "근거",
+        "sori": "거"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "擧",
+    "hun": "들",
+    "sori": "거",
+    "readings": [
+      {
+        "hun": "들",
+        "sori": "거"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "拒",
+    "hun": "막을",
+    "sori": "거",
+    "readings": [
+      {
+        "hun": "막을",
+        "sori": "거"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "居",
+    "hun": "살",
+    "sori": "거",
+    "readings": [
+      {
+        "hun": "살",
+        "sori": "거"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "車",
+    "hun": "수레",
+    "sori": "거",
+    "readings": [
+      {
+        "hun": "수레",
+        "sori": "거"
+      },
+      {
+        "hun": "수레",
+        "sori": "차"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "巨",
+    "hun": "클",
+    "sori": "거",
+    "readings": [
+      {
+        "hun": "클",
+        "sori": "거"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "健",
+    "hun": "굳셀",
+    "sori": "건",
+    "readings": [
+      {
+        "hun": "굳셀",
+        "sori": "건"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "件",
+    "hun": "물건",
+    "sori": "건",
+    "readings": [
+      {
+        "hun": "물건",
+        "sori": "건"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "建",
+    "hun": "세울",
+    "sori": "건",
+    "readings": [
+      {
+        "hun": "세울",
+        "sori": "건"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "傑",
+    "hun": "뛰어날",
+    "sori": "걸",
+    "readings": [
+      {
+        "hun": "뛰어날",
+        "sori": "걸"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "檢",
+    "hun": "검사할",
+    "sori": "검",
+    "readings": [
+      {
+        "hun": "검사할",
+        "sori": "검"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "儉",
+    "hun": "검소할",
+    "sori": "검",
+    "readings": [
+      {
+        "hun": "검소할",
+        "sori": "검"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "格",
+    "hun": "격식",
+    "sori": "격",
+    "readings": [
+      {
+        "hun": "격식",
+        "sori": "격"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "激",
+    "hun": "격할",
+    "sori": "격",
+    "readings": [
+      {
+        "hun": "격할",
+        "sori": "격"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "擊",
+    "hun": "칠[打]",
+    "sori": "격",
+    "readings": [
+      {
+        "hun": "칠[打]",
+        "sori": "격"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "犬",
+    "hun": "개",
+    "sori": "견",
+    "readings": [
+      {
+        "hun": "개",
+        "sori": "견"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "堅",
+    "hun": "굳을",
+    "sori": "견",
+    "readings": [
+      {
+        "hun": "굳을",
+        "sori": "견"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "見",
+    "hun": "볼",
+    "sori": "견",
+    "readings": [
+      {
+        "hun": "볼",
+        "sori": "견"
+      },
+      {
+        "hun": "뵈올",
+        "sori": "현"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "決",
+    "hun": "결단할",
+    "sori": "결",
+    "readings": [
+      {
+        "hun": "결단할",
+        "sori": "결"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "潔",
+    "hun": "깨끗할",
+    "sori": "결",
+    "readings": [
+      {
+        "hun": "깨끗할",
+        "sori": "결"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "結",
+    "hun": "맺을",
+    "sori": "결",
+    "readings": [
+      {
+        "hun": "맺을",
+        "sori": "결"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "缺",
+    "hun": "이지러질",
+    "sori": "결",
+    "readings": [
+      {
+        "hun": "이지러질",
+        "sori": "결"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "輕",
+    "hun": "가벼울",
+    "sori": "경",
+    "readings": [
+      {
+        "hun": "가벼울",
+        "sori": "경"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "鏡",
+    "hun": "거울",
+    "sori": "경",
+    "readings": [
+      {
+        "hun": "거울",
+        "sori": "경"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "慶",
+    "hun": "경사",
+    "sori": "경",
+    "readings": [
+      {
+        "hun": "경사",
+        "sori": "경"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "更",
+    "hun": "고칠",
+    "sori": "경",
+    "readings": [
+      {
+        "hun": "고칠",
+        "sori": "경"
+      },
+      {
+        "hun": "다시",
+        "sori": "갱"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "敬",
+    "hun": "공경",
+    "sori": "경",
+    "readings": [
+      {
+        "hun": "공경",
+        "sori": "경"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "傾",
+    "hun": "기울",
+    "sori": "경",
+    "readings": [
+      {
+        "hun": "기울",
+        "sori": "경"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "警",
+    "hun": "깨우칠",
+    "sori": "경",
+    "readings": [
+      {
+        "hun": "깨우칠",
+        "sori": "경"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "驚",
+    "hun": "놀랄",
+    "sori": "경",
+    "readings": [
+      {
+        "hun": "놀랄",
+        "sori": "경"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "競",
+    "hun": "다툴",
+    "sori": "경",
+    "readings": [
+      {
+        "hun": "다툴",
+        "sori": "경"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "景",
+    "hun": "볕",
+    "sori": "경",
+    "readings": [
+      {
+        "hun": "볕",
+        "sori": "경"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "京",
+    "hun": "서울",
+    "sori": "경",
+    "readings": [
+      {
+        "hun": "서울",
+        "sori": "경"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "境",
+    "hun": "지경",
+    "sori": "경",
+    "readings": [
+      {
+        "hun": "지경",
+        "sori": "경"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "經",
+    "hun": "지날/글",
+    "sori": "경",
+    "readings": [
+      {
+        "hun": "지날/글",
+        "sori": "경"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "戒",
+    "hun": "경계할",
+    "sori": "계",
+    "readings": [
+      {
+        "hun": "경계할",
+        "sori": "계"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "季",
+    "hun": "계절",
+    "sori": "계",
+    "readings": [
+      {
+        "hun": "계절",
+        "sori": "계"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "鷄",
+    "hun": "닭",
+    "sori": "계",
+    "readings": [
+      {
+        "hun": "닭",
+        "sori": "계"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "係",
+    "hun": "맬",
+    "sori": "계",
+    "readings": [
+      {
+        "hun": "맬",
+        "sori": "계"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "階",
+    "hun": "섬돌",
+    "sori": "계",
+    "readings": [
+      {
+        "hun": "섬돌",
+        "sori": "계"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "計",
+    "hun": "셀",
+    "sori": "계",
+    "readings": [
+      {
+        "hun": "셀",
+        "sori": "계"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "系",
+    "hun": "이어맬",
+    "sori": "계",
+    "readings": [
+      {
+        "hun": "이어맬",
+        "sori": "계"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "繼",
+    "hun": "이을",
+    "sori": "계",
+    "readings": [
+      {
+        "hun": "이을",
+        "sori": "계"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "界",
+    "hun": "지경",
+    "sori": "계",
+    "readings": [
+      {
+        "hun": "지경",
+        "sori": "계"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "告",
+    "hun": "고할",
+    "sori": "고",
+    "readings": [
+      {
+        "hun": "고할",
+        "sori": "고"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "庫",
+    "hun": "곳집",
+    "sori": "고",
+    "readings": [
+      {
+        "hun": "곳집",
+        "sori": "고"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "固",
+    "hun": "굳을",
+    "sori": "고",
+    "readings": [
+      {
+        "hun": "굳을",
+        "sori": "고"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "高",
+    "hun": "높을",
+    "sori": "고",
+    "readings": [
+      {
+        "hun": "높을",
+        "sori": "고"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "考",
+    "hun": "생각할",
+    "sori": "고",
+    "readings": [
+      {
+        "hun": "생각할",
+        "sori": "고"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "苦",
+    "hun": "쓸[味覺]",
+    "sori": "고",
+    "readings": [
+      {
+        "hun": "쓸[味覺]",
+        "sori": "고"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "故",
+    "hun": "연고",
+    "sori": "고",
+    "readings": [
+      {
+        "hun": "연고",
+        "sori": "고"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "古",
+    "hun": "예",
+    "sori": "고",
+    "readings": [
+      {
+        "hun": "예",
+        "sori": "고"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "孤",
+    "hun": "외로울",
+    "sori": "고",
+    "readings": [
+      {
+        "hun": "외로울",
+        "sori": "고"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "穀",
+    "hun": "곡식",
+    "sori": "곡",
+    "readings": [
+      {
+        "hun": "곡식",
+        "sori": "곡"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "曲",
+    "hun": "굽을",
+    "sori": "곡",
+    "readings": [
+      {
+        "hun": "굽을",
+        "sori": "곡"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "困",
+    "hun": "곤할",
+    "sori": "곤",
+    "readings": [
+      {
+        "hun": "곤할",
+        "sori": "곤"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "骨",
+    "hun": "뼈",
+    "sori": "골",
+    "readings": [
+      {
+        "hun": "뼈",
+        "sori": "골"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "功",
+    "hun": "공[勳]",
+    "sori": "공",
+    "readings": [
+      {
+        "hun": "공[勳]",
+        "sori": "공"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "公",
+    "hun": "공평할",
+    "sori": "공",
+    "readings": [
+      {
+        "hun": "공평할",
+        "sori": "공"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "孔",
+    "hun": "구멍",
+    "sori": "공",
+    "readings": [
+      {
+        "hun": "구멍",
+        "sori": "공"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "空",
+    "hun": "빌",
+    "sori": "공",
+    "readings": [
+      {
+        "hun": "빌",
+        "sori": "공"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "工",
+    "hun": "장인",
+    "sori": "공",
+    "readings": [
+      {
+        "hun": "장인",
+        "sori": "공"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "攻",
+    "hun": "칠[擊]",
+    "sori": "공",
+    "readings": [
+      {
+        "hun": "칠[擊]",
+        "sori": "공"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "共",
+    "hun": "한가지",
+    "sori": "공",
+    "readings": [
+      {
+        "hun": "한가지",
+        "sori": "공"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "課",
+    "hun": "공부할/과정",
+    "sori": "과",
+    "readings": [
+      {
+        "hun": "공부할/과정",
+        "sori": "과"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "科",
+    "hun": "과목",
+    "sori": "과",
+    "readings": [
+      {
+        "hun": "과목",
+        "sori": "과"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "果",
+    "hun": "실과",
+    "sori": "과",
+    "readings": [
+      {
+        "hun": "실과",
+        "sori": "과"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "過",
+    "hun": "지날",
+    "sori": "과",
+    "readings": [
+      {
+        "hun": "지날",
+        "sori": "과"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "關",
+    "hun": "관계할",
+    "sori": "관",
+    "readings": [
+      {
+        "hun": "관계할",
+        "sori": "관"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "管",
+    "hun": "대롱/주관할",
+    "sori": "관",
+    "readings": [
+      {
+        "hun": "대롱/주관할",
+        "sori": "관"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "官",
+    "hun": "벼슬",
+    "sori": "관",
+    "readings": [
+      {
+        "hun": "벼슬",
+        "sori": "관"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "觀",
+    "hun": "볼",
+    "sori": "관",
+    "readings": [
+      {
+        "hun": "볼",
+        "sori": "관"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "廣",
+    "hun": "넓을",
+    "sori": "광",
+    "readings": [
+      {
+        "hun": "넓을",
+        "sori": "광"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "光",
+    "hun": "빛",
+    "sori": "광",
+    "readings": [
+      {
+        "hun": "빛",
+        "sori": "광"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "鑛",
+    "hun": "쇳돌",
+    "sori": "광",
+    "readings": [
+      {
+        "hun": "쇳돌",
+        "sori": "광"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "敎",
+    "hun": "가르칠",
+    "sori": "교",
+    "readings": [
+      {
+        "hun": "가르칠",
+        "sori": "교"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "橋",
+    "hun": "다리",
+    "sori": "교",
+    "readings": [
+      {
+        "hun": "다리",
+        "sori": "교"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "交",
+    "hun": "사귈",
+    "sori": "교",
+    "readings": [
+      {
+        "hun": "사귈",
+        "sori": "교"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "校",
+    "hun": "학교",
+    "sori": "교",
+    "readings": [
+      {
+        "hun": "학교",
+        "sori": "교"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "具",
+    "hun": "갖출",
+    "sori": "구",
+    "readings": [
+      {
+        "hun": "갖출",
+        "sori": "구"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "球",
+    "hun": "공",
+    "sori": "구",
+    "readings": [
+      {
+        "hun": "공",
+        "sori": "구"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "區",
+    "hun": "구분할/지경",
+    "sori": "구",
+    "readings": [
+      {
+        "hun": "구분할/지경",
+        "sori": "구"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "救",
+    "hun": "구원할",
+    "sori": "구",
+    "readings": [
+      {
+        "hun": "구원할",
+        "sori": "구"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "求",
+    "hun": "구할[索]",
+    "sori": "구",
+    "readings": [
+      {
+        "hun": "구할[索]",
+        "sori": "구"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "句",
+    "hun": "글귀",
+    "sori": "구",
+    "readings": [
+      {
+        "hun": "글귀",
+        "sori": "구"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "九",
+    "hun": "아홉",
+    "sori": "구",
+    "readings": [
+      {
+        "hun": "아홉",
+        "sori": "구"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "構",
+    "hun": "얽을",
+    "sori": "구",
+    "readings": [
+      {
+        "hun": "얽을",
+        "sori": "구"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "究",
+    "hun": "연구할",
+    "sori": "구",
+    "readings": [
+      {
+        "hun": "연구할",
+        "sori": "구"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "舊",
+    "hun": "예",
+    "sori": "구",
+    "readings": [
+      {
+        "hun": "예",
+        "sori": "구"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "口",
+    "hun": "입",
+    "sori": "구",
+    "readings": [
+      {
+        "hun": "입",
+        "sori": "구"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "國",
+    "hun": "나라",
+    "sori": "국",
+    "readings": [
+      {
+        "hun": "나라",
+        "sori": "국"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "局",
+    "hun": "판[形局]",
+    "sori": "국",
+    "readings": [
+      {
+        "hun": "판[形局]",
+        "sori": "국"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "郡",
+    "hun": "고을",
+    "sori": "군",
+    "readings": [
+      {
+        "hun": "고을",
+        "sori": "군"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "軍",
+    "hun": "군사",
+    "sori": "군",
+    "readings": [
+      {
+        "hun": "군사",
+        "sori": "군"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "群",
+    "hun": "무리",
+    "sori": "군",
+    "readings": [
+      {
+        "hun": "무리",
+        "sori": "군"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "君",
+    "hun": "임금",
+    "sori": "군",
+    "readings": [
+      {
+        "hun": "임금",
+        "sori": "군"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "屈",
+    "hun": "굽힐",
+    "sori": "굴",
+    "readings": [
+      {
+        "hun": "굽힐",
+        "sori": "굴"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "窮",
+    "hun": "다할/궁할",
+    "sori": "궁",
+    "readings": [
+      {
+        "hun": "다할/궁할",
+        "sori": "궁"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "宮",
+    "hun": "집",
+    "sori": "궁",
+    "readings": [
+      {
+        "hun": "집",
+        "sori": "궁"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "權",
+    "hun": "권세",
+    "sori": "권",
+    "readings": [
+      {
+        "hun": "권세",
+        "sori": "권"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "勸",
+    "hun": "권할",
+    "sori": "권",
+    "readings": [
+      {
+        "hun": "권할",
+        "sori": "권"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "券",
+    "hun": "문서",
+    "sori": "권",
+    "readings": [
+      {
+        "hun": "문서",
+        "sori": "권"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "卷",
+    "hun": "책",
+    "sori": "권",
+    "readings": [
+      {
+        "hun": "책",
+        "sori": "권"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "貴",
+    "hun": "귀할",
+    "sori": "귀",
+    "readings": [
+      {
+        "hun": "귀할",
+        "sori": "귀"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "歸",
+    "hun": "돌아갈",
+    "sori": "귀",
+    "readings": [
+      {
+        "hun": "돌아갈",
+        "sori": "귀"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "規",
+    "hun": "법",
+    "sori": "규",
+    "readings": [
+      {
+        "hun": "법",
+        "sori": "규"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "均",
+    "hun": "고를",
+    "sori": "균",
+    "readings": [
+      {
+        "hun": "고를",
+        "sori": "균"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "極",
+    "hun": "다할/극진할",
+    "sori": "극",
+    "readings": [
+      {
+        "hun": "다할/극진할",
+        "sori": "극"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "劇",
+    "hun": "심할",
+    "sori": "극",
+    "readings": [
+      {
+        "hun": "심할",
+        "sori": "극"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "近",
+    "hun": "가까울",
+    "sori": "근",
+    "readings": [
+      {
+        "hun": "가까울",
+        "sori": "근"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "勤",
+    "hun": "부지런할",
+    "sori": "근",
+    "readings": [
+      {
+        "hun": "부지런할",
+        "sori": "근"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "根",
+    "hun": "뿌리",
+    "sori": "근",
+    "readings": [
+      {
+        "hun": "뿌리",
+        "sori": "근"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "筋",
+    "hun": "힘줄",
+    "sori": "근",
+    "readings": [
+      {
+        "hun": "힘줄",
+        "sori": "근"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "禁",
+    "hun": "금할",
+    "sori": "금",
+    "readings": [
+      {
+        "hun": "금할",
+        "sori": "금"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "金",
+    "hun": "쇠",
+    "sori": "금",
+    "readings": [
+      {
+        "hun": "쇠",
+        "sori": "금"
+      },
+      {
+        "hun": "성(姓)",
+        "sori": "김"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "今",
+    "hun": "이제",
+    "sori": "금",
+    "readings": [
+      {
+        "hun": "이제",
+        "sori": "금"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "急",
+    "hun": "급할",
+    "sori": "급",
+    "readings": [
+      {
+        "hun": "급할",
+        "sori": "급"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "級",
+    "hun": "등급",
+    "sori": "급",
+    "readings": [
+      {
+        "hun": "등급",
+        "sori": "급"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "給",
+    "hun": "줄",
+    "sori": "급",
+    "readings": [
+      {
+        "hun": "줄",
+        "sori": "급"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "器",
+    "hun": "그릇",
+    "sori": "기",
+    "readings": [
+      {
+        "hun": "그릇",
+        "sori": "기"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "旗",
+    "hun": "기",
+    "sori": "기",
+    "readings": [
+      {
+        "hun": "기",
+        "sori": "기"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "記",
+    "hun": "기록할",
+    "sori": "기",
+    "readings": [
+      {
+        "hun": "기록할",
+        "sori": "기"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "期",
+    "hun": "기약할",
+    "sori": "기",
+    "readings": [
+      {
+        "hun": "기약할",
+        "sori": "기"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "氣",
+    "hun": "기운",
+    "sori": "기",
+    "readings": [
+      {
+        "hun": "기운",
+        "sori": "기"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "奇",
+    "hun": "기특할",
+    "sori": "기",
+    "readings": [
+      {
+        "hun": "기특할",
+        "sori": "기"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "己",
+    "hun": "몸",
+    "sori": "기",
+    "readings": [
+      {
+        "hun": "몸",
+        "sori": "기"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "汽",
+    "hun": "물끓는김",
+    "sori": "기",
+    "readings": [
+      {
+        "hun": "물끓는김",
+        "sori": "기"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "紀",
+    "hun": "벼리",
+    "sori": "기",
+    "readings": [
+      {
+        "hun": "벼리",
+        "sori": "기"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "寄",
+    "hun": "부칠",
+    "sori": "기",
+    "readings": [
+      {
+        "hun": "부칠",
+        "sori": "기"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "起",
+    "hun": "일어날",
+    "sori": "기",
+    "readings": [
+      {
+        "hun": "일어날",
+        "sori": "기"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "技",
+    "hun": "재주",
+    "sori": "기",
+    "readings": [
+      {
+        "hun": "재주",
+        "sori": "기"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "基",
+    "hun": "터",
+    "sori": "기",
+    "readings": [
+      {
+        "hun": "터",
+        "sori": "기"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "機",
+    "hun": "틀",
+    "sori": "기",
+    "readings": [
+      {
+        "hun": "틀",
+        "sori": "기"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "吉",
+    "hun": "길할",
+    "sori": "길",
+    "readings": [
+      {
+        "hun": "길할",
+        "sori": "길"
+      }
+    ],
+    "consonant": "ㄱ"
+  },
+  {
+    "char": "暖",
+    "hun": "따뜻할",
+    "sori": "난",
+    "readings": [
+      {
+        "hun": "따뜻할",
+        "sori": "난"
+      }
+    ],
+    "consonant": "ㄴ"
+  },
+  {
+    "char": "難",
+    "hun": "어려울",
+    "sori": "난",
+    "readings": [
+      {
+        "hun": "어려울",
+        "sori": "난"
+      }
+    ],
+    "consonant": "ㄴ"
+  },
+  {
+    "char": "南",
+    "hun": "남녘",
+    "sori": "남",
+    "readings": [
+      {
+        "hun": "남녘",
+        "sori": "남"
+      }
+    ],
+    "consonant": "ㄴ"
+  },
+  {
+    "char": "男",
+    "hun": "사내",
+    "sori": "남",
+    "readings": [
+      {
+        "hun": "사내",
+        "sori": "남"
+      }
+    ],
+    "consonant": "ㄴ"
+  },
+  {
+    "char": "納",
+    "hun": "들일",
+    "sori": "납",
+    "readings": [
+      {
+        "hun": "들일",
+        "sori": "납"
+      }
+    ],
+    "consonant": "ㄴ"
+  },
+  {
+    "char": "內",
+    "hun": "안",
+    "sori": "내",
+    "readings": [
+      {
+        "hun": "안",
+        "sori": "내"
+      }
+    ],
+    "consonant": "ㄴ"
+  },
+  {
+    "char": "女",
+    "hun": "계집",
+    "sori": "녀",
+    "readings": [
+      {
+        "hun": "계집",
+        "sori": "녀"
+      }
+    ],
+    "consonant": "ㄴ"
+  },
+  {
+    "char": "年",
+    "hun": "해",
+    "sori": "년",
+    "readings": [
+      {
+        "hun": "해",
+        "sori": "년"
+      }
+    ],
+    "consonant": "ㄴ"
+  },
+  {
+    "char": "念",
+    "hun": "생각",
+    "sori": "념",
+    "readings": [
+      {
+        "hun": "생각",
+        "sori": "념"
+      }
+    ],
+    "consonant": "ㄴ"
+  },
+  {
+    "char": "怒",
+    "hun": "성낼",
+    "sori": "노",
+    "readings": [
+      {
+        "hun": "성낼",
+        "sori": "노"
+      }
+    ],
+    "consonant": "ㄴ"
+  },
+  {
+    "char": "努",
+    "hun": "힘쓸",
+    "sori": "노",
+    "readings": [
+      {
+        "hun": "힘쓸",
+        "sori": "노"
+      }
+    ],
+    "consonant": "ㄴ"
+  },
+  {
+    "char": "農",
+    "hun": "농사",
+    "sori": "농",
+    "readings": [
+      {
+        "hun": "농사",
+        "sori": "농"
+      }
+    ],
+    "consonant": "ㄴ"
+  },
+  {
+    "char": "能",
+    "hun": "능할",
+    "sori": "능",
+    "readings": [
+      {
+        "hun": "능할",
+        "sori": "능"
+      }
+    ],
+    "consonant": "ㄴ"
+  },
+  {
+    "char": "多",
+    "hun": "많을",
+    "sori": "다",
+    "readings": [
+      {
+        "hun": "많을",
+        "sori": "다"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "斷",
+    "hun": "끊을",
+    "sori": "단",
+    "readings": [
+      {
+        "hun": "끊을",
+        "sori": "단"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "端",
+    "hun": "끝",
+    "sori": "단",
+    "readings": [
+      {
+        "hun": "끝",
+        "sori": "단"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "壇",
+    "hun": "단",
+    "sori": "단",
+    "readings": [
+      {
+        "hun": "단",
+        "sori": "단"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "團",
+    "hun": "둥글",
+    "sori": "단",
+    "readings": [
+      {
+        "hun": "둥글",
+        "sori": "단"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "檀",
+    "hun": "박달나무",
+    "sori": "단",
+    "readings": [
+      {
+        "hun": "박달나무",
+        "sori": "단"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "短",
+    "hun": "짧을",
+    "sori": "단",
+    "readings": [
+      {
+        "hun": "짧을",
+        "sori": "단"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "段",
+    "hun": "층계",
+    "sori": "단",
+    "readings": [
+      {
+        "hun": "층계",
+        "sori": "단"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "單",
+    "hun": "홑",
+    "sori": "단",
+    "readings": [
+      {
+        "hun": "홑",
+        "sori": "단"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "達",
+    "hun": "통달할",
+    "sori": "달",
+    "readings": [
+      {
+        "hun": "통달할",
+        "sori": "달"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "談",
+    "hun": "말씀",
+    "sori": "담",
+    "readings": [
+      {
+        "hun": "말씀",
+        "sori": "담"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "擔",
+    "hun": "멜",
+    "sori": "담",
+    "readings": [
+      {
+        "hun": "멜",
+        "sori": "담"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "答",
+    "hun": "대답",
+    "sori": "답",
+    "readings": [
+      {
+        "hun": "대답",
+        "sori": "답"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "當",
+    "hun": "마땅",
+    "sori": "당",
+    "readings": [
+      {
+        "hun": "마땅",
+        "sori": "당"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "黨",
+    "hun": "무리",
+    "sori": "당",
+    "readings": [
+      {
+        "hun": "무리",
+        "sori": "당"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "堂",
+    "hun": "집",
+    "sori": "당",
+    "readings": [
+      {
+        "hun": "집",
+        "sori": "당"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "待",
+    "hun": "기다릴",
+    "sori": "대",
+    "readings": [
+      {
+        "hun": "기다릴",
+        "sori": "대"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "代",
+    "hun": "대신할",
+    "sori": "대",
+    "readings": [
+      {
+        "hun": "대신할",
+        "sori": "대"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "對",
+    "hun": "대할",
+    "sori": "대",
+    "readings": [
+      {
+        "hun": "대할",
+        "sori": "대"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "帶",
+    "hun": "띠",
+    "sori": "대",
+    "readings": [
+      {
+        "hun": "띠",
+        "sori": "대"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "隊",
+    "hun": "무리",
+    "sori": "대",
+    "readings": [
+      {
+        "hun": "무리",
+        "sori": "대"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "大",
+    "hun": "큰",
+    "sori": "대",
+    "readings": [
+      {
+        "hun": "큰",
+        "sori": "대"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "德",
+    "hun": "큰",
+    "sori": "덕",
+    "readings": [
+      {
+        "hun": "큰",
+        "sori": "덕"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "圖",
+    "hun": "그림",
+    "sori": "도",
+    "readings": [
+      {
+        "hun": "그림",
+        "sori": "도"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "道",
+    "hun": "길",
+    "sori": "도",
+    "readings": [
+      {
+        "hun": "길",
+        "sori": "도"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "盜",
+    "hun": "도둑",
+    "sori": "도",
+    "readings": [
+      {
+        "hun": "도둑",
+        "sori": "도"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "逃",
+    "hun": "도망할",
+    "sori": "도",
+    "readings": [
+      {
+        "hun": "도망할",
+        "sori": "도"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "都",
+    "hun": "도읍",
+    "sori": "도",
+    "readings": [
+      {
+        "hun": "도읍",
+        "sori": "도"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "徒",
+    "hun": "무리",
+    "sori": "도",
+    "readings": [
+      {
+        "hun": "무리",
+        "sori": "도"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "度",
+    "hun": "법도",
+    "sori": "도",
+    "readings": [
+      {
+        "hun": "법도",
+        "sori": "도"
+      },
+      {
+        "hun": "헤아릴",
+        "sori": "탁"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "島",
+    "hun": "섬",
+    "sori": "도",
+    "readings": [
+      {
+        "hun": "섬",
+        "sori": "도"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "到",
+    "hun": "이를",
+    "sori": "도",
+    "readings": [
+      {
+        "hun": "이를",
+        "sori": "도"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "導",
+    "hun": "인도할",
+    "sori": "도",
+    "readings": [
+      {
+        "hun": "인도할",
+        "sori": "도"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "督",
+    "hun": "감독할",
+    "sori": "독",
+    "readings": [
+      {
+        "hun": "감독할",
+        "sori": "독"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "毒",
+    "hun": "독",
+    "sori": "독",
+    "readings": [
+      {
+        "hun": "독",
+        "sori": "독"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "讀",
+    "hun": "읽을",
+    "sori": "독",
+    "readings": [
+      {
+        "hun": "읽을",
+        "sori": "독"
+      },
+      {
+        "hun": "구절",
+        "sori": "두"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "獨",
+    "hun": "홀로",
+    "sori": "독",
+    "readings": [
+      {
+        "hun": "홀로",
+        "sori": "독"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "冬",
+    "hun": "겨울",
+    "sori": "동",
+    "readings": [
+      {
+        "hun": "겨울",
+        "sori": "동"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "洞",
+    "hun": "골",
+    "sori": "동",
+    "readings": [
+      {
+        "hun": "골",
+        "sori": "동"
+      },
+      {
+        "hun": "밝을",
+        "sori": "통"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "銅",
+    "hun": "구리",
+    "sori": "동",
+    "readings": [
+      {
+        "hun": "구리",
+        "sori": "동"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "東",
+    "hun": "동녘",
+    "sori": "동",
+    "readings": [
+      {
+        "hun": "동녘",
+        "sori": "동"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "童",
+    "hun": "아이",
+    "sori": "동",
+    "readings": [
+      {
+        "hun": "아이",
+        "sori": "동"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "動",
+    "hun": "움직일",
+    "sori": "동",
+    "readings": [
+      {
+        "hun": "움직일",
+        "sori": "동"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "同",
+    "hun": "한가지",
+    "sori": "동",
+    "readings": [
+      {
+        "hun": "한가지",
+        "sori": "동"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "斗",
+    "hun": "말",
+    "sori": "두",
+    "readings": [
+      {
+        "hun": "말",
+        "sori": "두"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "頭",
+    "hun": "머리",
+    "sori": "두",
+    "readings": [
+      {
+        "hun": "머리",
+        "sori": "두"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "豆",
+    "hun": "콩",
+    "sori": "두",
+    "readings": [
+      {
+        "hun": "콩",
+        "sori": "두"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "得",
+    "hun": "얻을",
+    "sori": "득",
+    "readings": [
+      {
+        "hun": "얻을",
+        "sori": "득"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "燈",
+    "hun": "등",
+    "sori": "등",
+    "readings": [
+      {
+        "hun": "등",
+        "sori": "등"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "等",
+    "hun": "무리",
+    "sori": "등",
+    "readings": [
+      {
+        "hun": "무리",
+        "sori": "등"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "登",
+    "hun": "오를",
+    "sori": "등",
+    "readings": [
+      {
+        "hun": "오를",
+        "sori": "등"
+      }
+    ],
+    "consonant": "ㄷ"
+  },
+  {
+    "char": "羅",
+    "hun": "벌릴",
+    "sori": "라",
+    "readings": [
+      {
+        "hun": "벌릴",
+        "sori": "라"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "落",
+    "hun": "떨어질",
+    "sori": "락",
+    "readings": [
+      {
+        "hun": "떨어질",
+        "sori": "락"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "樂",
+    "hun": "즐길",
+    "sori": "락",
+    "readings": [
+      {
+        "hun": "즐길",
+        "sori": "락"
+      },
+      {
+        "hun": "노래",
+        "sori": "악"
+      },
+      {
+        "hun": "좋아할",
+        "sori": "요"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "卵",
+    "hun": "알",
+    "sori": "란",
+    "readings": [
+      {
+        "hun": "알",
+        "sori": "란"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "亂",
+    "hun": "어지러울",
+    "sori": "란",
+    "readings": [
+      {
+        "hun": "어지러울",
+        "sori": "란"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "覽",
+    "hun": "볼",
+    "sori": "람",
+    "readings": [
+      {
+        "hun": "볼",
+        "sori": "람"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "朗",
+    "hun": "밝을",
+    "sori": "랑",
+    "readings": [
+      {
+        "hun": "밝을",
+        "sori": "랑"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "來",
+    "hun": "올",
+    "sori": "래",
+    "readings": [
+      {
+        "hun": "올",
+        "sori": "래"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "冷",
+    "hun": "찰",
+    "sori": "랭",
+    "readings": [
+      {
+        "hun": "찰",
+        "sori": "랭"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "略",
+    "hun": "간략할/약할",
+    "sori": "략",
+    "readings": [
+      {
+        "hun": "간략할/약할",
+        "sori": "략"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "兩",
+    "hun": "두",
+    "sori": "량",
+    "readings": [
+      {
+        "hun": "두",
+        "sori": "량"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "糧",
+    "hun": "양식",
+    "sori": "량",
+    "readings": [
+      {
+        "hun": "양식",
+        "sori": "량"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "良",
+    "hun": "어질",
+    "sori": "량",
+    "readings": [
+      {
+        "hun": "어질",
+        "sori": "량"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "量",
+    "hun": "헤아릴",
+    "sori": "량",
+    "readings": [
+      {
+        "hun": "헤아릴",
+        "sori": "량"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "麗",
+    "hun": "고울",
+    "sori": "려",
+    "readings": [
+      {
+        "hun": "고울",
+        "sori": "려"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "旅",
+    "hun": "나그네",
+    "sori": "려",
+    "readings": [
+      {
+        "hun": "나그네",
+        "sori": "려"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "慮",
+    "hun": "생각할",
+    "sori": "려",
+    "readings": [
+      {
+        "hun": "생각할",
+        "sori": "려"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "歷",
+    "hun": "지날",
+    "sori": "력",
+    "readings": [
+      {
+        "hun": "지날",
+        "sori": "력"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "力",
+    "hun": "힘",
+    "sori": "력",
+    "readings": [
+      {
+        "hun": "힘",
+        "sori": "력"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "連",
+    "hun": "이을",
+    "sori": "련",
+    "readings": [
+      {
+        "hun": "이을",
+        "sori": "련"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "練",
+    "hun": "익힐",
+    "sori": "련",
+    "readings": [
+      {
+        "hun": "익힐",
+        "sori": "련"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "烈",
+    "hun": "매울",
+    "sori": "렬",
+    "readings": [
+      {
+        "hun": "매울",
+        "sori": "렬"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "列",
+    "hun": "벌릴",
+    "sori": "렬",
+    "readings": [
+      {
+        "hun": "벌릴",
+        "sori": "렬"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "領",
+    "hun": "거느릴",
+    "sori": "령",
+    "readings": [
+      {
+        "hun": "거느릴",
+        "sori": "령"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "令",
+    "hun": "하여금",
+    "sori": "령",
+    "readings": [
+      {
+        "hun": "하여금",
+        "sori": "령"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "例",
+    "hun": "법식",
+    "sori": "례",
+    "readings": [
+      {
+        "hun": "법식",
+        "sori": "례"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "禮",
+    "hun": "예도",
+    "sori": "례",
+    "readings": [
+      {
+        "hun": "예도",
+        "sori": "례"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "路",
+    "hun": "길",
+    "sori": "로",
+    "readings": [
+      {
+        "hun": "길",
+        "sori": "로"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "老",
+    "hun": "늙을",
+    "sori": "로",
+    "readings": [
+      {
+        "hun": "늙을",
+        "sori": "로"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "勞",
+    "hun": "일할",
+    "sori": "로",
+    "readings": [
+      {
+        "hun": "일할",
+        "sori": "로"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "錄",
+    "hun": "기록할",
+    "sori": "록",
+    "readings": [
+      {
+        "hun": "기록할",
+        "sori": "록"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "綠",
+    "hun": "푸를",
+    "sori": "록",
+    "readings": [
+      {
+        "hun": "푸를",
+        "sori": "록"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "論",
+    "hun": "논할",
+    "sori": "론",
+    "readings": [
+      {
+        "hun": "논할",
+        "sori": "론"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "料",
+    "hun": "헤아릴",
+    "sori": "료",
+    "readings": [
+      {
+        "hun": "헤아릴",
+        "sori": "료"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "龍",
+    "hun": "용",
+    "sori": "룡",
+    "readings": [
+      {
+        "hun": "용",
+        "sori": "룡"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "留",
+    "hun": "머무를",
+    "sori": "류",
+    "readings": [
+      {
+        "hun": "머무를",
+        "sori": "류"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "類",
+    "hun": "무리",
+    "sori": "류",
+    "readings": [
+      {
+        "hun": "무리",
+        "sori": "류"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "柳",
+    "hun": "버들",
+    "sori": "류",
+    "readings": [
+      {
+        "hun": "버들",
+        "sori": "류"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "流",
+    "hun": "흐를",
+    "sori": "류",
+    "readings": [
+      {
+        "hun": "흐를",
+        "sori": "류"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "陸",
+    "hun": "뭍",
+    "sori": "륙",
+    "readings": [
+      {
+        "hun": "뭍",
+        "sori": "륙"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "六",
+    "hun": "여섯",
+    "sori": "륙",
+    "readings": [
+      {
+        "hun": "여섯",
+        "sori": "륙"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "輪",
+    "hun": "바퀴",
+    "sori": "륜",
+    "readings": [
+      {
+        "hun": "바퀴",
+        "sori": "륜"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "律",
+    "hun": "법칙",
+    "sori": "률",
+    "readings": [
+      {
+        "hun": "법칙",
+        "sori": "률"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "理",
+    "hun": "다스릴",
+    "sori": "리",
+    "readings": [
+      {
+        "hun": "다스릴",
+        "sori": "리"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "離",
+    "hun": "떠날",
+    "sori": "리",
+    "readings": [
+      {
+        "hun": "떠날",
+        "sori": "리"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "里",
+    "hun": "마을",
+    "sori": "리",
+    "readings": [
+      {
+        "hun": "마을",
+        "sori": "리"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "李",
+    "hun": "오얏/성(姓)",
+    "sori": "리",
+    "readings": [
+      {
+        "hun": "오얏/성(姓)",
+        "sori": "리"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "利",
+    "hun": "이할",
+    "sori": "리",
+    "readings": [
+      {
+        "hun": "이할",
+        "sori": "리"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "林",
+    "hun": "수풀",
+    "sori": "림",
+    "readings": [
+      {
+        "hun": "수풀",
+        "sori": "림"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "立",
+    "hun": "설",
+    "sori": "립",
+    "readings": [
+      {
+        "hun": "설",
+        "sori": "립"
+      }
+    ],
+    "consonant": "ㄹ"
+  },
+  {
+    "char": "馬",
+    "hun": "말",
+    "sori": "마",
+    "readings": [
+      {
+        "hun": "말",
+        "sori": "마"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "萬",
+    "hun": "일만",
+    "sori": "만",
+    "readings": [
+      {
+        "hun": "일만",
+        "sori": "만"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "滿",
+    "hun": "찰",
+    "sori": "만",
+    "readings": [
+      {
+        "hun": "찰",
+        "sori": "만"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "末",
+    "hun": "끝",
+    "sori": "말",
+    "readings": [
+      {
+        "hun": "끝",
+        "sori": "말"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "亡",
+    "hun": "망할",
+    "sori": "망",
+    "readings": [
+      {
+        "hun": "망할",
+        "sori": "망"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "望",
+    "hun": "바랄",
+    "sori": "망",
+    "readings": [
+      {
+        "hun": "바랄",
+        "sori": "망"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "妹",
+    "hun": "누이",
+    "sori": "매",
+    "readings": [
+      {
+        "hun": "누이",
+        "sori": "매"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "每",
+    "hun": "매양",
+    "sori": "매",
+    "readings": [
+      {
+        "hun": "매양",
+        "sori": "매"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "買",
+    "hun": "살",
+    "sori": "매",
+    "readings": [
+      {
+        "hun": "살",
+        "sori": "매"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "賣",
+    "hun": "팔",
+    "sori": "매",
+    "readings": [
+      {
+        "hun": "팔",
+        "sori": "매"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "脈",
+    "hun": "줄기",
+    "sori": "맥",
+    "readings": [
+      {
+        "hun": "줄기",
+        "sori": "맥"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "面",
+    "hun": "낯",
+    "sori": "면",
+    "readings": [
+      {
+        "hun": "낯",
+        "sori": "면"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "勉",
+    "hun": "힘쓸",
+    "sori": "면",
+    "readings": [
+      {
+        "hun": "힘쓸",
+        "sori": "면"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "命",
+    "hun": "목숨",
+    "sori": "명",
+    "readings": [
+      {
+        "hun": "목숨",
+        "sori": "명"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "明",
+    "hun": "밝을",
+    "sori": "명",
+    "readings": [
+      {
+        "hun": "밝을",
+        "sori": "명"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "鳴",
+    "hun": "울",
+    "sori": "명",
+    "readings": [
+      {
+        "hun": "울",
+        "sori": "명"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "名",
+    "hun": "이름",
+    "sori": "명",
+    "readings": [
+      {
+        "hun": "이름",
+        "sori": "명"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "模",
+    "hun": "본뜰",
+    "sori": "모",
+    "readings": [
+      {
+        "hun": "본뜰",
+        "sori": "모"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "母",
+    "hun": "어미",
+    "sori": "모",
+    "readings": [
+      {
+        "hun": "어미",
+        "sori": "모"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "毛",
+    "hun": "터럭",
+    "sori": "모",
+    "readings": [
+      {
+        "hun": "터럭",
+        "sori": "모"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "木",
+    "hun": "나무",
+    "sori": "목",
+    "readings": [
+      {
+        "hun": "나무",
+        "sori": "목"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "目",
+    "hun": "눈",
+    "sori": "목",
+    "readings": [
+      {
+        "hun": "눈",
+        "sori": "목"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "牧",
+    "hun": "칠[養]",
+    "sori": "목",
+    "readings": [
+      {
+        "hun": "칠[養]",
+        "sori": "목"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "妙",
+    "hun": "묘할",
+    "sori": "묘",
+    "readings": [
+      {
+        "hun": "묘할",
+        "sori": "묘"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "墓",
+    "hun": "무덤",
+    "sori": "묘",
+    "readings": [
+      {
+        "hun": "무덤",
+        "sori": "묘"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "無",
+    "hun": "없을",
+    "sori": "무",
+    "readings": [
+      {
+        "hun": "없을",
+        "sori": "무"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "舞",
+    "hun": "춤출",
+    "sori": "무",
+    "readings": [
+      {
+        "hun": "춤출",
+        "sori": "무"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "武",
+    "hun": "호반",
+    "sori": "무",
+    "readings": [
+      {
+        "hun": "호반",
+        "sori": "무"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "務",
+    "hun": "힘쓸",
+    "sori": "무",
+    "readings": [
+      {
+        "hun": "힘쓸",
+        "sori": "무"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "文",
+    "hun": "글월",
+    "sori": "문",
+    "readings": [
+      {
+        "hun": "글월",
+        "sori": "문"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "聞",
+    "hun": "들을",
+    "sori": "문",
+    "readings": [
+      {
+        "hun": "들을",
+        "sori": "문"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "門",
+    "hun": "문",
+    "sori": "문",
+    "readings": [
+      {
+        "hun": "문",
+        "sori": "문"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "問",
+    "hun": "물을",
+    "sori": "문",
+    "readings": [
+      {
+        "hun": "물을",
+        "sori": "문"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "物",
+    "hun": "물건",
+    "sori": "물",
+    "readings": [
+      {
+        "hun": "물건",
+        "sori": "물"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "味",
+    "hun": "맛",
+    "sori": "미",
+    "readings": [
+      {
+        "hun": "맛",
+        "sori": "미"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "米",
+    "hun": "쌀",
+    "sori": "미",
+    "readings": [
+      {
+        "hun": "쌀",
+        "sori": "미"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "未",
+    "hun": "아닐",
+    "sori": "미",
+    "readings": [
+      {
+        "hun": "아닐",
+        "sori": "미"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "美",
+    "hun": "아름다울",
+    "sori": "미",
+    "readings": [
+      {
+        "hun": "아름다울",
+        "sori": "미"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "民",
+    "hun": "백성",
+    "sori": "민",
+    "readings": [
+      {
+        "hun": "백성",
+        "sori": "민"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "密",
+    "hun": "빽빽할",
+    "sori": "밀",
+    "readings": [
+      {
+        "hun": "빽빽할",
+        "sori": "밀"
+      }
+    ],
+    "consonant": "ㅁ"
+  },
+  {
+    "char": "博",
+    "hun": "넓을",
+    "sori": "박",
+    "readings": [
+      {
+        "hun": "넓을",
+        "sori": "박"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "朴",
+    "hun": "성(姓)",
+    "sori": "박",
+    "readings": [
+      {
+        "hun": "성(姓)",
+        "sori": "박"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "拍",
+    "hun": "칠",
+    "sori": "박",
+    "readings": [
+      {
+        "hun": "칠",
+        "sori": "박"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "班",
+    "hun": "나눌",
+    "sori": "반",
+    "readings": [
+      {
+        "hun": "나눌",
+        "sori": "반"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "反",
+    "hun": "돌이킬/돌아올",
+    "sori": "반",
+    "readings": [
+      {
+        "hun": "돌이킬/돌아올",
+        "sori": "반"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "半",
+    "hun": "반(半)",
+    "sori": "반",
+    "readings": [
+      {
+        "hun": "반(半)",
+        "sori": "반"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "髮",
+    "hun": "터럭",
+    "sori": "발",
+    "readings": [
+      {
+        "hun": "터럭",
+        "sori": "발"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "發",
+    "hun": "필",
+    "sori": "발",
+    "readings": [
+      {
+        "hun": "필",
+        "sori": "발"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "放",
+    "hun": "놓을",
+    "sori": "방",
+    "readings": [
+      {
+        "hun": "놓을",
+        "sori": "방"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "防",
+    "hun": "막을",
+    "sori": "방",
+    "readings": [
+      {
+        "hun": "막을",
+        "sori": "방"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "方",
+    "hun": "모[棱]",
+    "sori": "방",
+    "readings": [
+      {
+        "hun": "모[棱]",
+        "sori": "방"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "房",
+    "hun": "방",
+    "sori": "방",
+    "readings": [
+      {
+        "hun": "방",
+        "sori": "방"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "妨",
+    "hun": "방해할",
+    "sori": "방",
+    "readings": [
+      {
+        "hun": "방해할",
+        "sori": "방"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "訪",
+    "hun": "찾을",
+    "sori": "방",
+    "readings": [
+      {
+        "hun": "찾을",
+        "sori": "방"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "倍",
+    "hun": "곱",
+    "sori": "배",
+    "readings": [
+      {
+        "hun": "곱",
+        "sori": "배"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "配",
+    "hun": "나눌/짝",
+    "sori": "배",
+    "readings": [
+      {
+        "hun": "나눌/짝",
+        "sori": "배"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "背",
+    "hun": "등",
+    "sori": "배",
+    "readings": [
+      {
+        "hun": "등",
+        "sori": "배"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "拜",
+    "hun": "절",
+    "sori": "배",
+    "readings": [
+      {
+        "hun": "절",
+        "sori": "배"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "百",
+    "hun": "일백",
+    "sori": "백",
+    "readings": [
+      {
+        "hun": "일백",
+        "sori": "백"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "白",
+    "hun": "흰",
+    "sori": "백",
+    "readings": [
+      {
+        "hun": "흰",
+        "sori": "백"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "番",
+    "hun": "차례",
+    "sori": "번",
+    "readings": [
+      {
+        "hun": "차례",
+        "sori": "번"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "罰",
+    "hun": "벌할",
+    "sori": "벌",
+    "readings": [
+      {
+        "hun": "벌할",
+        "sori": "벌"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "伐",
+    "hun": "칠[討]",
+    "sori": "벌",
+    "readings": [
+      {
+        "hun": "칠[討]",
+        "sori": "벌"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "犯",
+    "hun": "범할",
+    "sori": "범",
+    "readings": [
+      {
+        "hun": "범할",
+        "sori": "범"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "範",
+    "hun": "법",
+    "sori": "범",
+    "readings": [
+      {
+        "hun": "법",
+        "sori": "범"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "法",
+    "hun": "법",
+    "sori": "법",
+    "readings": [
+      {
+        "hun": "법",
+        "sori": "법"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "壁",
+    "hun": "벽",
+    "sori": "벽",
+    "readings": [
+      {
+        "hun": "벽",
+        "sori": "벽"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "邊",
+    "hun": "가[側]",
+    "sori": "변",
+    "readings": [
+      {
+        "hun": "가[側]",
+        "sori": "변"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "辯",
+    "hun": "말씀",
+    "sori": "변",
+    "readings": [
+      {
+        "hun": "말씀",
+        "sori": "변"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "變",
+    "hun": "변할",
+    "sori": "변",
+    "readings": [
+      {
+        "hun": "변할",
+        "sori": "변"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "別",
+    "hun": "다를/나눌",
+    "sori": "별",
+    "readings": [
+      {
+        "hun": "다를/나눌",
+        "sori": "별"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "病",
+    "hun": "병",
+    "sori": "병",
+    "readings": [
+      {
+        "hun": "병",
+        "sori": "병"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "兵",
+    "hun": "병사",
+    "sori": "병",
+    "readings": [
+      {
+        "hun": "병사",
+        "sori": "병"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "報",
+    "hun": "갚을/알릴",
+    "sori": "보",
+    "readings": [
+      {
+        "hun": "갚을/알릴",
+        "sori": "보"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "步",
+    "hun": "걸음",
+    "sori": "보",
+    "readings": [
+      {
+        "hun": "걸음",
+        "sori": "보"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "普",
+    "hun": "넓을",
+    "sori": "보",
+    "readings": [
+      {
+        "hun": "넓을",
+        "sori": "보"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "寶",
+    "hun": "보배",
+    "sori": "보",
+    "readings": [
+      {
+        "hun": "보배",
+        "sori": "보"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "保",
+    "hun": "지킬",
+    "sori": "보",
+    "readings": [
+      {
+        "hun": "지킬",
+        "sori": "보"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "複",
+    "hun": "겹칠",
+    "sori": "복",
+    "readings": [
+      {
+        "hun": "겹칠",
+        "sori": "복"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "福",
+    "hun": "복",
+    "sori": "복",
+    "readings": [
+      {
+        "hun": "복",
+        "sori": "복"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "伏",
+    "hun": "엎드릴",
+    "sori": "복",
+    "readings": [
+      {
+        "hun": "엎드릴",
+        "sori": "복"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "服",
+    "hun": "옷",
+    "sori": "복",
+    "readings": [
+      {
+        "hun": "옷",
+        "sori": "복"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "復",
+    "hun": "회복할",
+    "sori": "복",
+    "readings": [
+      {
+        "hun": "회복할",
+        "sori": "복"
+      },
+      {
+        "hun": "다시",
+        "sori": "부"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "本",
+    "hun": "근본",
+    "sori": "본",
+    "readings": [
+      {
+        "hun": "근본",
+        "sori": "본"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "奉",
+    "hun": "받들",
+    "sori": "봉",
+    "readings": [
+      {
+        "hun": "받들",
+        "sori": "봉"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "部",
+    "hun": "떼",
+    "sori": "부",
+    "readings": [
+      {
+        "hun": "떼",
+        "sori": "부"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "府",
+    "hun": "마을[官廳]",
+    "sori": "부",
+    "readings": [
+      {
+        "hun": "마을[官廳]",
+        "sori": "부"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "婦",
+    "hun": "며느리",
+    "sori": "부",
+    "readings": [
+      {
+        "hun": "며느리",
+        "sori": "부"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "副",
+    "hun": "버금",
+    "sori": "부",
+    "readings": [
+      {
+        "hun": "버금",
+        "sori": "부"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "富",
+    "hun": "부자",
+    "sori": "부",
+    "readings": [
+      {
+        "hun": "부자",
+        "sori": "부"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "否",
+    "hun": "아닐",
+    "sori": "부",
+    "readings": [
+      {
+        "hun": "아닐",
+        "sori": "부"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "父",
+    "hun": "아비",
+    "sori": "부",
+    "readings": [
+      {
+        "hun": "아비",
+        "sori": "부"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "夫",
+    "hun": "지아비",
+    "sori": "부",
+    "readings": [
+      {
+        "hun": "지아비",
+        "sori": "부"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "負",
+    "hun": "질[荷]",
+    "sori": "부",
+    "readings": [
+      {
+        "hun": "질[荷]",
+        "sori": "부"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "北",
+    "hun": "북녘",
+    "sori": "북",
+    "readings": [
+      {
+        "hun": "북녘",
+        "sori": "북"
+      },
+      {
+        "hun": "달아날",
+        "sori": "배"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "粉",
+    "hun": "가루",
+    "sori": "분",
+    "readings": [
+      {
+        "hun": "가루",
+        "sori": "분"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "分",
+    "hun": "나눌",
+    "sori": "분",
+    "readings": [
+      {
+        "hun": "나눌",
+        "sori": "분"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "憤",
+    "hun": "분할",
+    "sori": "분",
+    "readings": [
+      {
+        "hun": "분할",
+        "sori": "분"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "佛",
+    "hun": "부처",
+    "sori": "불",
+    "readings": [
+      {
+        "hun": "부처",
+        "sori": "불"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "不",
+    "hun": "아닐",
+    "sori": "불",
+    "readings": [
+      {
+        "hun": "아닐",
+        "sori": "불"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "備",
+    "hun": "갖출",
+    "sori": "비",
+    "readings": [
+      {
+        "hun": "갖출",
+        "sori": "비"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "比",
+    "hun": "견줄",
+    "sori": "비",
+    "readings": [
+      {
+        "hun": "견줄",
+        "sori": "비"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "飛",
+    "hun": "날",
+    "sori": "비",
+    "readings": [
+      {
+        "hun": "날",
+        "sori": "비"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "碑",
+    "hun": "비석",
+    "sori": "비",
+    "readings": [
+      {
+        "hun": "비석",
+        "sori": "비"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "批",
+    "hun": "비평할",
+    "sori": "비",
+    "readings": [
+      {
+        "hun": "비평할",
+        "sori": "비"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "祕",
+    "hun": "숨길",
+    "sori": "비",
+    "readings": [
+      {
+        "hun": "숨길",
+        "sori": "비"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "悲",
+    "hun": "슬플",
+    "sori": "비",
+    "readings": [
+      {
+        "hun": "슬플",
+        "sori": "비"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "費",
+    "hun": "쓸",
+    "sori": "비",
+    "readings": [
+      {
+        "hun": "쓸",
+        "sori": "비"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "非",
+    "hun": "아닐",
+    "sori": "비",
+    "readings": [
+      {
+        "hun": "아닐",
+        "sori": "비"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "鼻",
+    "hun": "코",
+    "sori": "비",
+    "readings": [
+      {
+        "hun": "코",
+        "sori": "비"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "貧",
+    "hun": "가난할",
+    "sori": "빈",
+    "readings": [
+      {
+        "hun": "가난할",
+        "sori": "빈"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "氷",
+    "hun": "얼음",
+    "sori": "빙",
+    "readings": [
+      {
+        "hun": "얼음",
+        "sori": "빙"
+      }
+    ],
+    "consonant": "ㅂ"
+  },
+  {
+    "char": "四",
+    "hun": "넉",
+    "sori": "사",
+    "readings": [
+      {
+        "hun": "넉",
+        "sori": "사"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "辭",
+    "hun": "말씀",
+    "sori": "사",
+    "readings": [
+      {
+        "hun": "말씀",
+        "sori": "사"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "社",
+    "hun": "모일",
+    "sori": "사",
+    "readings": [
+      {
+        "hun": "모일",
+        "sori": "사"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "寫",
+    "hun": "베낄",
+    "sori": "사",
+    "readings": [
+      {
+        "hun": "베낄",
+        "sori": "사"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "史",
+    "hun": "사기(史記)",
+    "sori": "사",
+    "readings": [
+      {
+        "hun": "사기(史記)",
+        "sori": "사"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "謝",
+    "hun": "사례할",
+    "sori": "사",
+    "readings": [
+      {
+        "hun": "사례할",
+        "sori": "사"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "私",
+    "hun": "사사(私事)",
+    "sori": "사",
+    "readings": [
+      {
+        "hun": "사사(私事)",
+        "sori": "사"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "思",
+    "hun": "생각",
+    "sori": "사",
+    "readings": [
+      {
+        "hun": "생각",
+        "sori": "사"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "士",
+    "hun": "선비",
+    "sori": "사",
+    "readings": [
+      {
+        "hun": "선비",
+        "sori": "사"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "仕",
+    "hun": "섬길",
+    "sori": "사",
+    "readings": [
+      {
+        "hun": "섬길",
+        "sori": "사"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "師",
+    "hun": "스승",
+    "sori": "사",
+    "readings": [
+      {
+        "hun": "스승",
+        "sori": "사"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "絲",
+    "hun": "실",
+    "sori": "사",
+    "readings": [
+      {
+        "hun": "실",
+        "sori": "사"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "射",
+    "hun": "쏠",
+    "sori": "사",
+    "readings": [
+      {
+        "hun": "쏠",
+        "sori": "사"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "事",
+    "hun": "일",
+    "sori": "사",
+    "readings": [
+      {
+        "hun": "일",
+        "sori": "사"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "寺",
+    "hun": "절",
+    "sori": "사",
+    "readings": [
+      {
+        "hun": "절",
+        "sori": "사"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "査",
+    "hun": "조사할",
+    "sori": "사",
+    "readings": [
+      {
+        "hun": "조사할",
+        "sori": "사"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "死",
+    "hun": "죽을",
+    "sori": "사",
+    "readings": [
+      {
+        "hun": "죽을",
+        "sori": "사"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "舍",
+    "hun": "집",
+    "sori": "사",
+    "readings": [
+      {
+        "hun": "집",
+        "sori": "사"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "使",
+    "hun": "하여금/부릴",
+    "sori": "사",
+    "readings": [
+      {
+        "hun": "하여금/부릴",
+        "sori": "사"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "産",
+    "hun": "낳을",
+    "sori": "산",
+    "readings": [
+      {
+        "hun": "낳을",
+        "sori": "산"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "山",
+    "hun": "메",
+    "sori": "산",
+    "readings": [
+      {
+        "hun": "메",
+        "sori": "산"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "算",
+    "hun": "셈",
+    "sori": "산",
+    "readings": [
+      {
+        "hun": "셈",
+        "sori": "산"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "散",
+    "hun": "흩을",
+    "sori": "산",
+    "readings": [
+      {
+        "hun": "흩을",
+        "sori": "산"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "殺",
+    "hun": "죽일",
+    "sori": "살",
+    "readings": [
+      {
+        "hun": "죽일",
+        "sori": "살"
+      },
+      {
+        "hun": "감할/빠를",
+        "sori": "쇄"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "三",
+    "hun": "석",
+    "sori": "삼",
+    "readings": [
+      {
+        "hun": "석",
+        "sori": "삼"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "傷",
+    "hun": "다칠",
+    "sori": "상",
+    "readings": [
+      {
+        "hun": "다칠",
+        "sori": "상"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "常",
+    "hun": "떳떳할",
+    "sori": "상",
+    "readings": [
+      {
+        "hun": "떳떳할",
+        "sori": "상"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "床",
+    "hun": "상",
+    "sori": "상",
+    "readings": [
+      {
+        "hun": "상",
+        "sori": "상"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "賞",
+    "hun": "상줄",
+    "sori": "상",
+    "readings": [
+      {
+        "hun": "상줄",
+        "sori": "상"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "想",
+    "hun": "생각",
+    "sori": "상",
+    "readings": [
+      {
+        "hun": "생각",
+        "sori": "상"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "相",
+    "hun": "서로",
+    "sori": "상",
+    "readings": [
+      {
+        "hun": "서로",
+        "sori": "상"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "上",
+    "hun": "윗",
+    "sori": "상",
+    "readings": [
+      {
+        "hun": "윗",
+        "sori": "상"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "商",
+    "hun": "장사",
+    "sori": "상",
+    "readings": [
+      {
+        "hun": "장사",
+        "sori": "상"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "象",
+    "hun": "코끼리",
+    "sori": "상",
+    "readings": [
+      {
+        "hun": "코끼리",
+        "sori": "상"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "狀",
+    "hun": "형상",
+    "sori": "상",
+    "readings": [
+      {
+        "hun": "형상",
+        "sori": "상"
+      },
+      {
+        "hun": "문서",
+        "sori": "장"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "色",
+    "hun": "빛",
+    "sori": "색",
+    "readings": [
+      {
+        "hun": "빛",
+        "sori": "색"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "生",
+    "hun": "날",
+    "sori": "생",
+    "readings": [
+      {
+        "hun": "날",
+        "sori": "생"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "書",
+    "hun": "글",
+    "sori": "서",
+    "readings": [
+      {
+        "hun": "글",
+        "sori": "서"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "西",
+    "hun": "서녘",
+    "sori": "서",
+    "readings": [
+      {
+        "hun": "서녘",
+        "sori": "서"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "序",
+    "hun": "차례",
+    "sori": "서",
+    "readings": [
+      {
+        "hun": "차례",
+        "sori": "서"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "石",
+    "hun": "돌",
+    "sori": "석",
+    "readings": [
+      {
+        "hun": "돌",
+        "sori": "석"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "席",
+    "hun": "자리",
+    "sori": "석",
+    "readings": [
+      {
+        "hun": "자리",
+        "sori": "석"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "夕",
+    "hun": "저녁",
+    "sori": "석",
+    "readings": [
+      {
+        "hun": "저녁",
+        "sori": "석"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "選",
+    "hun": "가릴",
+    "sori": "선",
+    "readings": [
+      {
+        "hun": "가릴",
+        "sori": "선"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "鮮",
+    "hun": "고울",
+    "sori": "선",
+    "readings": [
+      {
+        "hun": "고울",
+        "sori": "선"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "先",
+    "hun": "먼저",
+    "sori": "선",
+    "readings": [
+      {
+        "hun": "먼저",
+        "sori": "선"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "船",
+    "hun": "배",
+    "sori": "선",
+    "readings": [
+      {
+        "hun": "배",
+        "sori": "선"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "宣",
+    "hun": "베풀",
+    "sori": "선",
+    "readings": [
+      {
+        "hun": "베풀",
+        "sori": "선"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "仙",
+    "hun": "신선",
+    "sori": "선",
+    "readings": [
+      {
+        "hun": "신선",
+        "sori": "선"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "線",
+    "hun": "줄",
+    "sori": "선",
+    "readings": [
+      {
+        "hun": "줄",
+        "sori": "선"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "善",
+    "hun": "착할",
+    "sori": "선",
+    "readings": [
+      {
+        "hun": "착할",
+        "sori": "선"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "雪",
+    "hun": "눈",
+    "sori": "설",
+    "readings": [
+      {
+        "hun": "눈",
+        "sori": "설"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "說",
+    "hun": "말씀",
+    "sori": "설",
+    "readings": [
+      {
+        "hun": "말씀",
+        "sori": "설"
+      },
+      {
+        "hun": "달랠",
+        "sori": "세"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "設",
+    "hun": "베풀",
+    "sori": "설",
+    "readings": [
+      {
+        "hun": "베풀",
+        "sori": "설"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "舌",
+    "hun": "혀",
+    "sori": "설",
+    "readings": [
+      {
+        "hun": "혀",
+        "sori": "설"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "星",
+    "hun": "별",
+    "sori": "성",
+    "readings": [
+      {
+        "hun": "별",
+        "sori": "성"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "省",
+    "hun": "살필",
+    "sori": "성",
+    "readings": [
+      {
+        "hun": "살필",
+        "sori": "성"
+      },
+      {
+        "hun": "덜",
+        "sori": "생"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "姓",
+    "hun": "성",
+    "sori": "성",
+    "readings": [
+      {
+        "hun": "성",
+        "sori": "성"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "聖",
+    "hun": "성인",
+    "sori": "성",
+    "readings": [
+      {
+        "hun": "성인",
+        "sori": "성"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "性",
+    "hun": "성품",
+    "sori": "성",
+    "readings": [
+      {
+        "hun": "성품",
+        "sori": "성"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "盛",
+    "hun": "성할",
+    "sori": "성",
+    "readings": [
+      {
+        "hun": "성할",
+        "sori": "성"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "聲",
+    "hun": "소리",
+    "sori": "성",
+    "readings": [
+      {
+        "hun": "소리",
+        "sori": "성"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "成",
+    "hun": "이룰",
+    "sori": "성",
+    "readings": [
+      {
+        "hun": "이룰",
+        "sori": "성"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "城",
+    "hun": "재",
+    "sori": "성",
+    "readings": [
+      {
+        "hun": "재",
+        "sori": "성"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "誠",
+    "hun": "정성",
+    "sori": "성",
+    "readings": [
+      {
+        "hun": "정성",
+        "sori": "성"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "細",
+    "hun": "가늘",
+    "sori": "세",
+    "readings": [
+      {
+        "hun": "가늘",
+        "sori": "세"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "稅",
+    "hun": "세금",
+    "sori": "세",
+    "readings": [
+      {
+        "hun": "세금",
+        "sori": "세"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "洗",
+    "hun": "씻을",
+    "sori": "세",
+    "readings": [
+      {
+        "hun": "씻을",
+        "sori": "세"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "世",
+    "hun": "인간",
+    "sori": "세",
+    "readings": [
+      {
+        "hun": "인간",
+        "sori": "세"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "歲",
+    "hun": "해",
+    "sori": "세",
+    "readings": [
+      {
+        "hun": "해",
+        "sori": "세"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "勢",
+    "hun": "형세",
+    "sori": "세",
+    "readings": [
+      {
+        "hun": "형세",
+        "sori": "세"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "所",
+    "hun": "바",
+    "sori": "소",
+    "readings": [
+      {
+        "hun": "바",
+        "sori": "소"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "素",
+    "hun": "본디/흴[白]",
+    "sori": "소",
+    "readings": [
+      {
+        "hun": "본디/흴[白]",
+        "sori": "소"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "消",
+    "hun": "사라질",
+    "sori": "소",
+    "readings": [
+      {
+        "hun": "사라질",
+        "sori": "소"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "掃",
+    "hun": "쓸[掃除]",
+    "sori": "소",
+    "readings": [
+      {
+        "hun": "쓸[掃除]",
+        "sori": "소"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "笑",
+    "hun": "웃음",
+    "sori": "소",
+    "readings": [
+      {
+        "hun": "웃음",
+        "sori": "소"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "小",
+    "hun": "작을",
+    "sori": "소",
+    "readings": [
+      {
+        "hun": "작을",
+        "sori": "소"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "少",
+    "hun": "적을",
+    "sori": "소",
+    "readings": [
+      {
+        "hun": "적을",
+        "sori": "소"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "束",
+    "hun": "묶을",
+    "sori": "속",
+    "readings": [
+      {
+        "hun": "묶을",
+        "sori": "속"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "屬",
+    "hun": "붙일",
+    "sori": "속",
+    "readings": [
+      {
+        "hun": "붙일",
+        "sori": "속"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "速",
+    "hun": "빠를",
+    "sori": "속",
+    "readings": [
+      {
+        "hun": "빠를",
+        "sori": "속"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "續",
+    "hun": "이을",
+    "sori": "속",
+    "readings": [
+      {
+        "hun": "이을",
+        "sori": "속"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "俗",
+    "hun": "풍속",
+    "sori": "속",
+    "readings": [
+      {
+        "hun": "풍속",
+        "sori": "속"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "損",
+    "hun": "덜",
+    "sori": "손",
+    "readings": [
+      {
+        "hun": "덜",
+        "sori": "손"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "孫",
+    "hun": "손자",
+    "sori": "손",
+    "readings": [
+      {
+        "hun": "손자",
+        "sori": "손"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "頌",
+    "hun": "기릴/칭송할",
+    "sori": "송",
+    "readings": [
+      {
+        "hun": "기릴/칭송할",
+        "sori": "송"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "送",
+    "hun": "보낼",
+    "sori": "송",
+    "readings": [
+      {
+        "hun": "보낼",
+        "sori": "송"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "松",
+    "hun": "소나무",
+    "sori": "송",
+    "readings": [
+      {
+        "hun": "소나무",
+        "sori": "송"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "收",
+    "hun": "거둘",
+    "sori": "수",
+    "readings": [
+      {
+        "hun": "거둘",
+        "sori": "수"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "樹",
+    "hun": "나무",
+    "sori": "수",
+    "readings": [
+      {
+        "hun": "나무",
+        "sori": "수"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "修",
+    "hun": "닦을",
+    "sori": "수",
+    "readings": [
+      {
+        "hun": "닦을",
+        "sori": "수"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "首",
+    "hun": "머리",
+    "sori": "수",
+    "readings": [
+      {
+        "hun": "머리",
+        "sori": "수"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "水",
+    "hun": "물",
+    "sori": "수",
+    "readings": [
+      {
+        "hun": "물",
+        "sori": "수"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "受",
+    "hun": "받을",
+    "sori": "수",
+    "readings": [
+      {
+        "hun": "받을",
+        "sori": "수"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "秀",
+    "hun": "빼어날",
+    "sori": "수",
+    "readings": [
+      {
+        "hun": "빼어날",
+        "sori": "수"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "數",
+    "hun": "셈",
+    "sori": "수",
+    "readings": [
+      {
+        "hun": "셈",
+        "sori": "수"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "手",
+    "hun": "손",
+    "sori": "수",
+    "readings": [
+      {
+        "hun": "손",
+        "sori": "수"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "授",
+    "hun": "줄",
+    "sori": "수",
+    "readings": [
+      {
+        "hun": "줄",
+        "sori": "수"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "守",
+    "hun": "지킬",
+    "sori": "수",
+    "readings": [
+      {
+        "hun": "지킬",
+        "sori": "수"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "叔",
+    "hun": "아재비",
+    "sori": "숙",
+    "readings": [
+      {
+        "hun": "아재비",
+        "sori": "숙"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "肅",
+    "hun": "엄숙할",
+    "sori": "숙",
+    "readings": [
+      {
+        "hun": "엄숙할",
+        "sori": "숙"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "宿",
+    "hun": "잘",
+    "sori": "숙",
+    "readings": [
+      {
+        "hun": "잘",
+        "sori": "숙"
+      },
+      {
+        "hun": "별자리",
+        "sori": "수"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "純",
+    "hun": "순수할",
+    "sori": "순",
+    "readings": [
+      {
+        "hun": "순수할",
+        "sori": "순"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "順",
+    "hun": "순할",
+    "sori": "순",
+    "readings": [
+      {
+        "hun": "순할",
+        "sori": "순"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "術",
+    "hun": "재주",
+    "sori": "술",
+    "readings": [
+      {
+        "hun": "재주",
+        "sori": "술"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "崇",
+    "hun": "높을",
+    "sori": "숭",
+    "readings": [
+      {
+        "hun": "높을",
+        "sori": "숭"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "習",
+    "hun": "익힐",
+    "sori": "습",
+    "readings": [
+      {
+        "hun": "익힐",
+        "sori": "습"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "勝",
+    "hun": "이길",
+    "sori": "승",
+    "readings": [
+      {
+        "hun": "이길",
+        "sori": "승"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "承",
+    "hun": "이을",
+    "sori": "승",
+    "readings": [
+      {
+        "hun": "이을",
+        "sori": "승"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "時",
+    "hun": "때",
+    "sori": "시",
+    "readings": [
+      {
+        "hun": "때",
+        "sori": "시"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "施",
+    "hun": "베풀",
+    "sori": "시",
+    "readings": [
+      {
+        "hun": "베풀",
+        "sori": "시"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "示",
+    "hun": "보일",
+    "sori": "시",
+    "readings": [
+      {
+        "hun": "보일",
+        "sori": "시"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "視",
+    "hun": "볼",
+    "sori": "시",
+    "readings": [
+      {
+        "hun": "볼",
+        "sori": "시"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "始",
+    "hun": "비로소",
+    "sori": "시",
+    "readings": [
+      {
+        "hun": "비로소",
+        "sori": "시"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "詩",
+    "hun": "시",
+    "sori": "시",
+    "readings": [
+      {
+        "hun": "시",
+        "sori": "시"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "試",
+    "hun": "시험",
+    "sori": "시",
+    "readings": [
+      {
+        "hun": "시험",
+        "sori": "시"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "是",
+    "hun": "이[斯]/옳을",
+    "sori": "시",
+    "readings": [
+      {
+        "hun": "이[斯]/옳을",
+        "sori": "시"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "市",
+    "hun": "저자",
+    "sori": "시",
+    "readings": [
+      {
+        "hun": "저자",
+        "sori": "시"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "食",
+    "hun": "밥/먹을",
+    "sori": "식",
+    "readings": [
+      {
+        "hun": "밥/먹을",
+        "sori": "식"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "式",
+    "hun": "법",
+    "sori": "식",
+    "readings": [
+      {
+        "hun": "법",
+        "sori": "식"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "息",
+    "hun": "쉴",
+    "sori": "식",
+    "readings": [
+      {
+        "hun": "쉴",
+        "sori": "식"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "植",
+    "hun": "심을",
+    "sori": "식",
+    "readings": [
+      {
+        "hun": "심을",
+        "sori": "식"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "識",
+    "hun": "알",
+    "sori": "식",
+    "readings": [
+      {
+        "hun": "알",
+        "sori": "식"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "神",
+    "hun": "귀신",
+    "sori": "신",
+    "readings": [
+      {
+        "hun": "귀신",
+        "sori": "신"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "申",
+    "hun": "납[猿]",
+    "sori": "신",
+    "readings": [
+      {
+        "hun": "납[猿]",
+        "sori": "신"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "身",
+    "hun": "몸",
+    "sori": "신",
+    "readings": [
+      {
+        "hun": "몸",
+        "sori": "신"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "信",
+    "hun": "믿을",
+    "sori": "신",
+    "readings": [
+      {
+        "hun": "믿을",
+        "sori": "신"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "新",
+    "hun": "새",
+    "sori": "신",
+    "readings": [
+      {
+        "hun": "새",
+        "sori": "신"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "臣",
+    "hun": "신하",
+    "sori": "신",
+    "readings": [
+      {
+        "hun": "신하",
+        "sori": "신"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "實",
+    "hun": "열매",
+    "sori": "실",
+    "readings": [
+      {
+        "hun": "열매",
+        "sori": "실"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "失",
+    "hun": "잃을",
+    "sori": "실",
+    "readings": [
+      {
+        "hun": "잃을",
+        "sori": "실"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "室",
+    "hun": "집",
+    "sori": "실",
+    "readings": [
+      {
+        "hun": "집",
+        "sori": "실"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "深",
+    "hun": "깊을",
+    "sori": "심",
+    "readings": [
+      {
+        "hun": "깊을",
+        "sori": "심"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "心",
+    "hun": "마음",
+    "sori": "심",
+    "readings": [
+      {
+        "hun": "마음",
+        "sori": "심"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "十",
+    "hun": "열",
+    "sori": "십",
+    "readings": [
+      {
+        "hun": "열",
+        "sori": "십"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "氏",
+    "hun": "각시/성씨(姓氏)",
+    "sori": "씨",
+    "readings": [
+      {
+        "hun": "각시/성씨(姓氏)",
+        "sori": "씨"
+      }
+    ],
+    "consonant": "ㅅ"
+  },
+  {
+    "char": "兒",
+    "hun": "아이",
+    "sori": "아",
+    "readings": [
+      {
+        "hun": "아이",
+        "sori": "아"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "惡",
+    "hun": "악할",
+    "sori": "악",
+    "readings": [
+      {
+        "hun": "악할",
+        "sori": "악"
+      },
+      {
+        "hun": "미워할",
+        "sori": "오"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "眼",
+    "hun": "눈",
+    "sori": "안",
+    "readings": [
+      {
+        "hun": "눈",
+        "sori": "안"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "案",
+    "hun": "책상",
+    "sori": "안",
+    "readings": [
+      {
+        "hun": "책상",
+        "sori": "안"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "安",
+    "hun": "편안",
+    "sori": "안",
+    "readings": [
+      {
+        "hun": "편안",
+        "sori": "안"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "暗",
+    "hun": "어두울",
+    "sori": "암",
+    "readings": [
+      {
+        "hun": "어두울",
+        "sori": "암"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "壓",
+    "hun": "누를",
+    "sori": "압",
+    "readings": [
+      {
+        "hun": "누를",
+        "sori": "압"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "愛",
+    "hun": "사랑",
+    "sori": "애",
+    "readings": [
+      {
+        "hun": "사랑",
+        "sori": "애"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "額",
+    "hun": "이마",
+    "sori": "액",
+    "readings": [
+      {
+        "hun": "이마",
+        "sori": "액"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "液",
+    "hun": "진",
+    "sori": "액",
+    "readings": [
+      {
+        "hun": "진",
+        "sori": "액"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "野",
+    "hun": "들[坪]",
+    "sori": "야",
+    "readings": [
+      {
+        "hun": "들[坪]",
+        "sori": "야"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "夜",
+    "hun": "밤",
+    "sori": "야",
+    "readings": [
+      {
+        "hun": "밤",
+        "sori": "야"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "約",
+    "hun": "맺을",
+    "sori": "약",
+    "readings": [
+      {
+        "hun": "맺을",
+        "sori": "약"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "藥",
+    "hun": "약",
+    "sori": "약",
+    "readings": [
+      {
+        "hun": "약",
+        "sori": "약"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "弱",
+    "hun": "약할",
+    "sori": "약",
+    "readings": [
+      {
+        "hun": "약할",
+        "sori": "약"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "養",
+    "hun": "기를",
+    "sori": "양",
+    "readings": [
+      {
+        "hun": "기를",
+        "sori": "양"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "樣",
+    "hun": "모양",
+    "sori": "양",
+    "readings": [
+      {
+        "hun": "모양",
+        "sori": "양"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "陽",
+    "hun": "볕",
+    "sori": "양",
+    "readings": [
+      {
+        "hun": "볕",
+        "sori": "양"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "羊",
+    "hun": "양",
+    "sori": "양",
+    "readings": [
+      {
+        "hun": "양",
+        "sori": "양"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "洋",
+    "hun": "큰바다",
+    "sori": "양",
+    "readings": [
+      {
+        "hun": "큰바다",
+        "sori": "양"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "魚",
+    "hun": "고기/물고기",
+    "sori": "어",
+    "readings": [
+      {
+        "hun": "고기/물고기",
+        "sori": "어"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "漁",
+    "hun": "고기잡을",
+    "sori": "어",
+    "readings": [
+      {
+        "hun": "고기잡을",
+        "sori": "어"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "語",
+    "hun": "말씀",
+    "sori": "어",
+    "readings": [
+      {
+        "hun": "말씀",
+        "sori": "어"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "億",
+    "hun": "억[數字]",
+    "sori": "억",
+    "readings": [
+      {
+        "hun": "억[數字]",
+        "sori": "억"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "言",
+    "hun": "말씀",
+    "sori": "언",
+    "readings": [
+      {
+        "hun": "말씀",
+        "sori": "언"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "嚴",
+    "hun": "엄할",
+    "sori": "엄",
+    "readings": [
+      {
+        "hun": "엄할",
+        "sori": "엄"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "業",
+    "hun": "업",
+    "sori": "업",
+    "readings": [
+      {
+        "hun": "업",
+        "sori": "업"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "如",
+    "hun": "같을",
+    "sori": "여",
+    "readings": [
+      {
+        "hun": "같을",
+        "sori": "여"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "餘",
+    "hun": "남을",
+    "sori": "여",
+    "readings": [
+      {
+        "hun": "남을",
+        "sori": "여"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "與",
+    "hun": "더불/줄",
+    "sori": "여",
+    "readings": [
+      {
+        "hun": "더불/줄",
+        "sori": "여"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "逆",
+    "hun": "거스릴",
+    "sori": "역",
+    "readings": [
+      {
+        "hun": "거스릴",
+        "sori": "역"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "易",
+    "hun": "바꿀",
+    "sori": "역",
+    "readings": [
+      {
+        "hun": "바꿀",
+        "sori": "역"
+      },
+      {
+        "hun": "쉬울",
+        "sori": "이"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "域",
+    "hun": "지경",
+    "sori": "역",
+    "readings": [
+      {
+        "hun": "지경",
+        "sori": "역"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "硏",
+    "hun": "갈",
+    "sori": "연",
+    "readings": [
+      {
+        "hun": "갈",
+        "sori": "연"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "然",
+    "hun": "그럴",
+    "sori": "연",
+    "readings": [
+      {
+        "hun": "그럴",
+        "sori": "연"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "鉛",
+    "hun": "납",
+    "sori": "연",
+    "readings": [
+      {
+        "hun": "납",
+        "sori": "연"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "延",
+    "hun": "늘일",
+    "sori": "연",
+    "readings": [
+      {
+        "hun": "늘일",
+        "sori": "연"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "煙",
+    "hun": "연기",
+    "sori": "연",
+    "readings": [
+      {
+        "hun": "연기",
+        "sori": "연"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "緣",
+    "hun": "인연",
+    "sori": "연",
+    "readings": [
+      {
+        "hun": "인연",
+        "sori": "연"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "燃",
+    "hun": "탈",
+    "sori": "연",
+    "readings": [
+      {
+        "hun": "탈",
+        "sori": "연"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "演",
+    "hun": "펼",
+    "sori": "연",
+    "readings": [
+      {
+        "hun": "펼",
+        "sori": "연"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "熱",
+    "hun": "더울",
+    "sori": "열",
+    "readings": [
+      {
+        "hun": "더울",
+        "sori": "열"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "葉",
+    "hun": "잎",
+    "sori": "엽",
+    "readings": [
+      {
+        "hun": "잎",
+        "sori": "엽"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "營",
+    "hun": "경영할",
+    "sori": "영",
+    "readings": [
+      {
+        "hun": "경영할",
+        "sori": "영"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "永",
+    "hun": "길",
+    "sori": "영",
+    "readings": [
+      {
+        "hun": "길",
+        "sori": "영"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "英",
+    "hun": "꽃부리",
+    "sori": "영",
+    "readings": [
+      {
+        "hun": "꽃부리",
+        "sori": "영"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "迎",
+    "hun": "맞을",
+    "sori": "영",
+    "readings": [
+      {
+        "hun": "맞을",
+        "sori": "영"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "映",
+    "hun": "비칠",
+    "sori": "영",
+    "readings": [
+      {
+        "hun": "비칠",
+        "sori": "영"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "榮",
+    "hun": "영화",
+    "sori": "영",
+    "readings": [
+      {
+        "hun": "영화",
+        "sori": "영"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "豫",
+    "hun": "미리",
+    "sori": "예",
+    "readings": [
+      {
+        "hun": "미리",
+        "sori": "예"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "藝",
+    "hun": "재주",
+    "sori": "예",
+    "readings": [
+      {
+        "hun": "재주",
+        "sori": "예"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "誤",
+    "hun": "그르칠",
+    "sori": "오",
+    "readings": [
+      {
+        "hun": "그르칠",
+        "sori": "오"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "午",
+    "hun": "낮",
+    "sori": "오",
+    "readings": [
+      {
+        "hun": "낮",
+        "sori": "오"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "五",
+    "hun": "다섯",
+    "sori": "오",
+    "readings": [
+      {
+        "hun": "다섯",
+        "sori": "오"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "玉",
+    "hun": "구슬",
+    "sori": "옥",
+    "readings": [
+      {
+        "hun": "구슬",
+        "sori": "옥"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "屋",
+    "hun": "집",
+    "sori": "옥",
+    "readings": [
+      {
+        "hun": "집",
+        "sori": "옥"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "溫",
+    "hun": "따뜻할",
+    "sori": "온",
+    "readings": [
+      {
+        "hun": "따뜻할",
+        "sori": "온"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "完",
+    "hun": "완전할",
+    "sori": "완",
+    "readings": [
+      {
+        "hun": "완전할",
+        "sori": "완"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "往",
+    "hun": "갈",
+    "sori": "왕",
+    "readings": [
+      {
+        "hun": "갈",
+        "sori": "왕"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "王",
+    "hun": "임금",
+    "sori": "왕",
+    "readings": [
+      {
+        "hun": "임금",
+        "sori": "왕"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "外",
+    "hun": "바깥",
+    "sori": "외",
+    "readings": [
+      {
+        "hun": "바깥",
+        "sori": "외"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "謠",
+    "hun": "노래",
+    "sori": "요",
+    "readings": [
+      {
+        "hun": "노래",
+        "sori": "요"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "曜",
+    "hun": "빛날",
+    "sori": "요",
+    "readings": [
+      {
+        "hun": "빛날",
+        "sori": "요"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "要",
+    "hun": "요긴할",
+    "sori": "요",
+    "readings": [
+      {
+        "hun": "요긴할",
+        "sori": "요"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "浴",
+    "hun": "목욕할",
+    "sori": "욕",
+    "readings": [
+      {
+        "hun": "목욕할",
+        "sori": "욕"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "勇",
+    "hun": "날랠",
+    "sori": "용",
+    "readings": [
+      {
+        "hun": "날랠",
+        "sori": "용"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "用",
+    "hun": "쓸",
+    "sori": "용",
+    "readings": [
+      {
+        "hun": "쓸",
+        "sori": "용"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "容",
+    "hun": "얼굴",
+    "sori": "용",
+    "readings": [
+      {
+        "hun": "얼굴",
+        "sori": "용"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "優",
+    "hun": "넉넉할",
+    "sori": "우",
+    "readings": [
+      {
+        "hun": "넉넉할",
+        "sori": "우"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "遇",
+    "hun": "만날",
+    "sori": "우",
+    "readings": [
+      {
+        "hun": "만날",
+        "sori": "우"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "友",
+    "hun": "벗",
+    "sori": "우",
+    "readings": [
+      {
+        "hun": "벗",
+        "sori": "우"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "雨",
+    "hun": "비",
+    "sori": "우",
+    "readings": [
+      {
+        "hun": "비",
+        "sori": "우"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "牛",
+    "hun": "소",
+    "sori": "우",
+    "readings": [
+      {
+        "hun": "소",
+        "sori": "우"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "右",
+    "hun": "오를/오른(쪽)",
+    "sori": "우",
+    "readings": [
+      {
+        "hun": "오를/오른(쪽)",
+        "sori": "우"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "郵",
+    "hun": "우편",
+    "sori": "우",
+    "readings": [
+      {
+        "hun": "우편",
+        "sori": "우"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "雲",
+    "hun": "구름",
+    "sori": "운",
+    "readings": [
+      {
+        "hun": "구름",
+        "sori": "운"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "運",
+    "hun": "옮길",
+    "sori": "운",
+    "readings": [
+      {
+        "hun": "옮길",
+        "sori": "운"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "雄",
+    "hun": "수컷",
+    "sori": "웅",
+    "readings": [
+      {
+        "hun": "수컷",
+        "sori": "웅"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "源",
+    "hun": "근원",
+    "sori": "원",
+    "readings": [
+      {
+        "hun": "근원",
+        "sori": "원"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "援",
+    "hun": "도울",
+    "sori": "원",
+    "readings": [
+      {
+        "hun": "도울",
+        "sori": "원"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "園",
+    "hun": "동산",
+    "sori": "원",
+    "readings": [
+      {
+        "hun": "동산",
+        "sori": "원"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "圓",
+    "hun": "둥글",
+    "sori": "원",
+    "readings": [
+      {
+        "hun": "둥글",
+        "sori": "원"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "遠",
+    "hun": "멀",
+    "sori": "원",
+    "readings": [
+      {
+        "hun": "멀",
+        "sori": "원"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "原",
+    "hun": "언덕",
+    "sori": "원",
+    "readings": [
+      {
+        "hun": "언덕",
+        "sori": "원"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "怨",
+    "hun": "원망할",
+    "sori": "원",
+    "readings": [
+      {
+        "hun": "원망할",
+        "sori": "원"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "願",
+    "hun": "원할",
+    "sori": "원",
+    "readings": [
+      {
+        "hun": "원할",
+        "sori": "원"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "元",
+    "hun": "으뜸",
+    "sori": "원",
+    "readings": [
+      {
+        "hun": "으뜸",
+        "sori": "원"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "員",
+    "hun": "인원",
+    "sori": "원",
+    "readings": [
+      {
+        "hun": "인원",
+        "sori": "원"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "院",
+    "hun": "집",
+    "sori": "원",
+    "readings": [
+      {
+        "hun": "집",
+        "sori": "원"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "月",
+    "hun": "달",
+    "sori": "월",
+    "readings": [
+      {
+        "hun": "달",
+        "sori": "월"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "委",
+    "hun": "맡길",
+    "sori": "위",
+    "readings": [
+      {
+        "hun": "맡길",
+        "sori": "위"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "圍",
+    "hun": "에워쌀",
+    "sori": "위",
+    "readings": [
+      {
+        "hun": "에워쌀",
+        "sori": "위"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "慰",
+    "hun": "위로할",
+    "sori": "위",
+    "readings": [
+      {
+        "hun": "위로할",
+        "sori": "위"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "威",
+    "hun": "위엄",
+    "sori": "위",
+    "readings": [
+      {
+        "hun": "위엄",
+        "sori": "위"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "危",
+    "hun": "위태할",
+    "sori": "위",
+    "readings": [
+      {
+        "hun": "위태할",
+        "sori": "위"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "位",
+    "hun": "자리",
+    "sori": "위",
+    "readings": [
+      {
+        "hun": "자리",
+        "sori": "위"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "衛",
+    "hun": "지킬",
+    "sori": "위",
+    "readings": [
+      {
+        "hun": "지킬",
+        "sori": "위"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "偉",
+    "hun": "클",
+    "sori": "위",
+    "readings": [
+      {
+        "hun": "클",
+        "sori": "위"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "爲",
+    "hun": "하/할",
+    "sori": "위",
+    "readings": [
+      {
+        "hun": "하/할",
+        "sori": "위"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "油",
+    "hun": "기름",
+    "sori": "유",
+    "readings": [
+      {
+        "hun": "기름",
+        "sori": "유"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "遺",
+    "hun": "남길",
+    "sori": "유",
+    "readings": [
+      {
+        "hun": "남길",
+        "sori": "유"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "遊",
+    "hun": "놀",
+    "sori": "유",
+    "readings": [
+      {
+        "hun": "놀",
+        "sori": "유"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "由",
+    "hun": "말미암을",
+    "sori": "유",
+    "readings": [
+      {
+        "hun": "말미암을",
+        "sori": "유"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "儒",
+    "hun": "선비",
+    "sori": "유",
+    "readings": [
+      {
+        "hun": "선비",
+        "sori": "유"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "有",
+    "hun": "있을",
+    "sori": "유",
+    "readings": [
+      {
+        "hun": "있을",
+        "sori": "유"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "乳",
+    "hun": "젖",
+    "sori": "유",
+    "readings": [
+      {
+        "hun": "젖",
+        "sori": "유"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "肉",
+    "hun": "고기",
+    "sori": "육",
+    "readings": [
+      {
+        "hun": "고기",
+        "sori": "육"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "育",
+    "hun": "기를",
+    "sori": "육",
+    "readings": [
+      {
+        "hun": "기를",
+        "sori": "육"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "隱",
+    "hun": "숨을",
+    "sori": "은",
+    "readings": [
+      {
+        "hun": "숨을",
+        "sori": "은"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "銀",
+    "hun": "은",
+    "sori": "은",
+    "readings": [
+      {
+        "hun": "은",
+        "sori": "은"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "恩",
+    "hun": "은혜",
+    "sori": "은",
+    "readings": [
+      {
+        "hun": "은혜",
+        "sori": "은"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "陰",
+    "hun": "그늘",
+    "sori": "음",
+    "readings": [
+      {
+        "hun": "그늘",
+        "sori": "음"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "飮",
+    "hun": "마실",
+    "sori": "음",
+    "readings": [
+      {
+        "hun": "마실",
+        "sori": "음"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "音",
+    "hun": "소리",
+    "sori": "음",
+    "readings": [
+      {
+        "hun": "소리",
+        "sori": "음"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "邑",
+    "hun": "고을",
+    "sori": "읍",
+    "readings": [
+      {
+        "hun": "고을",
+        "sori": "읍"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "應",
+    "hun": "응할",
+    "sori": "응",
+    "readings": [
+      {
+        "hun": "응할",
+        "sori": "응"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "儀",
+    "hun": "거동",
+    "sori": "의",
+    "readings": [
+      {
+        "hun": "거동",
+        "sori": "의"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "意",
+    "hun": "뜻",
+    "sori": "의",
+    "readings": [
+      {
+        "hun": "뜻",
+        "sori": "의"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "義",
+    "hun": "옳을",
+    "sori": "의",
+    "readings": [
+      {
+        "hun": "옳을",
+        "sori": "의"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "衣",
+    "hun": "옷",
+    "sori": "의",
+    "readings": [
+      {
+        "hun": "옷",
+        "sori": "의"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "議",
+    "hun": "의논할",
+    "sori": "의",
+    "readings": [
+      {
+        "hun": "의논할",
+        "sori": "의"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "疑",
+    "hun": "의심할",
+    "sori": "의",
+    "readings": [
+      {
+        "hun": "의심할",
+        "sori": "의"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "醫",
+    "hun": "의원",
+    "sori": "의",
+    "readings": [
+      {
+        "hun": "의원",
+        "sori": "의"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "依",
+    "hun": "의지할",
+    "sori": "의",
+    "readings": [
+      {
+        "hun": "의지할",
+        "sori": "의"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "耳",
+    "hun": "귀",
+    "sori": "이",
+    "readings": [
+      {
+        "hun": "귀",
+        "sori": "이"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "異",
+    "hun": "다를",
+    "sori": "이",
+    "readings": [
+      {
+        "hun": "다를",
+        "sori": "이"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "二",
+    "hun": "두",
+    "sori": "이",
+    "readings": [
+      {
+        "hun": "두",
+        "sori": "이"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "以",
+    "hun": "써",
+    "sori": "이",
+    "readings": [
+      {
+        "hun": "써",
+        "sori": "이"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "移",
+    "hun": "옮길",
+    "sori": "이",
+    "readings": [
+      {
+        "hun": "옮길",
+        "sori": "이"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "益",
+    "hun": "더할",
+    "sori": "익",
+    "readings": [
+      {
+        "hun": "더할",
+        "sori": "익"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "引",
+    "hun": "끌",
+    "sori": "인",
+    "readings": [
+      {
+        "hun": "끌",
+        "sori": "인"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "印",
+    "hun": "도장",
+    "sori": "인",
+    "readings": [
+      {
+        "hun": "도장",
+        "sori": "인"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "人",
+    "hun": "사람",
+    "sori": "인",
+    "readings": [
+      {
+        "hun": "사람",
+        "sori": "인"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "認",
+    "hun": "알[知]",
+    "sori": "인",
+    "readings": [
+      {
+        "hun": "알[知]",
+        "sori": "인"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "仁",
+    "hun": "어질",
+    "sori": "인",
+    "readings": [
+      {
+        "hun": "어질",
+        "sori": "인"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "因",
+    "hun": "인할",
+    "sori": "인",
+    "readings": [
+      {
+        "hun": "인할",
+        "sori": "인"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "日",
+    "hun": "날",
+    "sori": "일",
+    "readings": [
+      {
+        "hun": "날",
+        "sori": "일"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "一",
+    "hun": "한",
+    "sori": "일",
+    "readings": [
+      {
+        "hun": "한",
+        "sori": "일"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "任",
+    "hun": "맡길",
+    "sori": "임",
+    "readings": [
+      {
+        "hun": "맡길",
+        "sori": "임"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "入",
+    "hun": "들",
+    "sori": "입",
+    "readings": [
+      {
+        "hun": "들",
+        "sori": "입"
+      }
+    ],
+    "consonant": "ㅇ"
+  },
+  {
+    "char": "字",
+    "hun": "글자",
+    "sori": "자",
+    "readings": [
+      {
+        "hun": "글자",
+        "sori": "자"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "者",
+    "hun": "놈",
+    "sori": "자",
+    "readings": [
+      {
+        "hun": "놈",
+        "sori": "자"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "姿",
+    "hun": "모양",
+    "sori": "자",
+    "readings": [
+      {
+        "hun": "모양",
+        "sori": "자"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "姉",
+    "hun": "손윗누이",
+    "sori": "자",
+    "readings": [
+      {
+        "hun": "손윗누이",
+        "sori": "자"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "自",
+    "hun": "스스로",
+    "sori": "자",
+    "readings": [
+      {
+        "hun": "스스로",
+        "sori": "자"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "子",
+    "hun": "아들",
+    "sori": "자",
+    "readings": [
+      {
+        "hun": "아들",
+        "sori": "자"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "資",
+    "hun": "재물",
+    "sori": "자",
+    "readings": [
+      {
+        "hun": "재물",
+        "sori": "자"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "昨",
+    "hun": "어제",
+    "sori": "작",
+    "readings": [
+      {
+        "hun": "어제",
+        "sori": "작"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "作",
+    "hun": "지을",
+    "sori": "작",
+    "readings": [
+      {
+        "hun": "지을",
+        "sori": "작"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "殘",
+    "hun": "남을",
+    "sori": "잔",
+    "readings": [
+      {
+        "hun": "남을",
+        "sori": "잔"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "雜",
+    "hun": "섞일",
+    "sori": "잡",
+    "readings": [
+      {
+        "hun": "섞일",
+        "sori": "잡"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "章",
+    "hun": "글",
+    "sori": "장",
+    "readings": [
+      {
+        "hun": "글",
+        "sori": "장"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "長",
+    "hun": "긴",
+    "sori": "장",
+    "readings": [
+      {
+        "hun": "긴",
+        "sori": "장"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "裝",
+    "hun": "꾸밀",
+    "sori": "장",
+    "readings": [
+      {
+        "hun": "꾸밀",
+        "sori": "장"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "場",
+    "hun": "마당",
+    "sori": "장",
+    "readings": [
+      {
+        "hun": "마당",
+        "sori": "장"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "障",
+    "hun": "막을",
+    "sori": "장",
+    "readings": [
+      {
+        "hun": "막을",
+        "sori": "장"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "張",
+    "hun": "베풀",
+    "sori": "장",
+    "readings": [
+      {
+        "hun": "베풀",
+        "sori": "장"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "獎",
+    "hun": "장려할",
+    "sori": "장",
+    "readings": [
+      {
+        "hun": "장려할",
+        "sori": "장"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "帳",
+    "hun": "장막",
+    "sori": "장",
+    "readings": [
+      {
+        "hun": "장막",
+        "sori": "장"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "將",
+    "hun": "장수",
+    "sori": "장",
+    "readings": [
+      {
+        "hun": "장수",
+        "sori": "장"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "壯",
+    "hun": "장할",
+    "sori": "장",
+    "readings": [
+      {
+        "hun": "장할",
+        "sori": "장"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "腸",
+    "hun": "창자",
+    "sori": "장",
+    "readings": [
+      {
+        "hun": "창자",
+        "sori": "장"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "再",
+    "hun": "두",
+    "sori": "재",
+    "readings": [
+      {
+        "hun": "두",
+        "sori": "재"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "在",
+    "hun": "있을",
+    "sori": "재",
+    "readings": [
+      {
+        "hun": "있을",
+        "sori": "재"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "材",
+    "hun": "재목",
+    "sori": "재",
+    "readings": [
+      {
+        "hun": "재목",
+        "sori": "재"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "財",
+    "hun": "재물",
+    "sori": "재",
+    "readings": [
+      {
+        "hun": "재물",
+        "sori": "재"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "災",
+    "hun": "재앙",
+    "sori": "재",
+    "readings": [
+      {
+        "hun": "재앙",
+        "sori": "재"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "才",
+    "hun": "재주",
+    "sori": "재",
+    "readings": [
+      {
+        "hun": "재주",
+        "sori": "재"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "爭",
+    "hun": "다툴",
+    "sori": "쟁",
+    "readings": [
+      {
+        "hun": "다툴",
+        "sori": "쟁"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "低",
+    "hun": "낮을",
+    "sori": "저",
+    "readings": [
+      {
+        "hun": "낮을",
+        "sori": "저"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "底",
+    "hun": "밑",
+    "sori": "저",
+    "readings": [
+      {
+        "hun": "밑",
+        "sori": "저"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "貯",
+    "hun": "쌓을",
+    "sori": "저",
+    "readings": [
+      {
+        "hun": "쌓을",
+        "sori": "저"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "的",
+    "hun": "과녁",
+    "sori": "적",
+    "readings": [
+      {
+        "hun": "과녁",
+        "sori": "적"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "績",
+    "hun": "길쌈",
+    "sori": "적",
+    "readings": [
+      {
+        "hun": "길쌈",
+        "sori": "적"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "敵",
+    "hun": "대적할",
+    "sori": "적",
+    "readings": [
+      {
+        "hun": "대적할",
+        "sori": "적"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "賊",
+    "hun": "도둑",
+    "sori": "적",
+    "readings": [
+      {
+        "hun": "도둑",
+        "sori": "적"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "適",
+    "hun": "맞을",
+    "sori": "적",
+    "readings": [
+      {
+        "hun": "맞을",
+        "sori": "적"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "籍",
+    "hun": "문서",
+    "sori": "적",
+    "readings": [
+      {
+        "hun": "문서",
+        "sori": "적"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "赤",
+    "hun": "붉을",
+    "sori": "적",
+    "readings": [
+      {
+        "hun": "붉을",
+        "sori": "적"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "積",
+    "hun": "쌓을",
+    "sori": "적",
+    "readings": [
+      {
+        "hun": "쌓을",
+        "sori": "적"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "轉",
+    "hun": "구를",
+    "sori": "전",
+    "readings": [
+      {
+        "hun": "구를",
+        "sori": "전"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "錢",
+    "hun": "돈",
+    "sori": "전",
+    "readings": [
+      {
+        "hun": "돈",
+        "sori": "전"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "田",
+    "hun": "밭",
+    "sori": "전",
+    "readings": [
+      {
+        "hun": "밭",
+        "sori": "전"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "電",
+    "hun": "번개",
+    "sori": "전",
+    "readings": [
+      {
+        "hun": "번개",
+        "sori": "전"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "典",
+    "hun": "법",
+    "sori": "전",
+    "readings": [
+      {
+        "hun": "법",
+        "sori": "전"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "戰",
+    "hun": "싸움",
+    "sori": "전",
+    "readings": [
+      {
+        "hun": "싸움",
+        "sori": "전"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "前",
+    "hun": "앞",
+    "sori": "전",
+    "readings": [
+      {
+        "hun": "앞",
+        "sori": "전"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "專",
+    "hun": "오로지",
+    "sori": "전",
+    "readings": [
+      {
+        "hun": "오로지",
+        "sori": "전"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "全",
+    "hun": "온전",
+    "sori": "전",
+    "readings": [
+      {
+        "hun": "온전",
+        "sori": "전"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "傳",
+    "hun": "전할",
+    "sori": "전",
+    "readings": [
+      {
+        "hun": "전할",
+        "sori": "전"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "展",
+    "hun": "펼",
+    "sori": "전",
+    "readings": [
+      {
+        "hun": "펼",
+        "sori": "전"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "折",
+    "hun": "꺾을",
+    "sori": "절",
+    "readings": [
+      {
+        "hun": "꺾을",
+        "sori": "절"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "切",
+    "hun": "끊을",
+    "sori": "절",
+    "readings": [
+      {
+        "hun": "끊을",
+        "sori": "절"
+      },
+      {
+        "hun": "온통",
+        "sori": "체"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "絶",
+    "hun": "끊을",
+    "sori": "절",
+    "readings": [
+      {
+        "hun": "끊을",
+        "sori": "절"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "節",
+    "hun": "마디",
+    "sori": "절",
+    "readings": [
+      {
+        "hun": "마디",
+        "sori": "절"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "店",
+    "hun": "가게",
+    "sori": "점",
+    "readings": [
+      {
+        "hun": "가게",
+        "sori": "점"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "點",
+    "hun": "점",
+    "sori": "점",
+    "readings": [
+      {
+        "hun": "점",
+        "sori": "점"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "占",
+    "hun": "점령할 점/점칠",
+    "sori": "점",
+    "readings": [
+      {
+        "hun": "점령할 점/점칠",
+        "sori": "점"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "接",
+    "hun": "이을",
+    "sori": "접",
+    "readings": [
+      {
+        "hun": "이을",
+        "sori": "접"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "整",
+    "hun": "가지런할",
+    "sori": "정",
+    "readings": [
+      {
+        "hun": "가지런할",
+        "sori": "정"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "丁",
+    "hun": "고무래/장정",
+    "sori": "정",
+    "readings": [
+      {
+        "hun": "고무래/장정",
+        "sori": "정"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "靜",
+    "hun": "고요할",
+    "sori": "정",
+    "readings": [
+      {
+        "hun": "고요할",
+        "sori": "정"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "庭",
+    "hun": "뜰",
+    "sori": "정",
+    "readings": [
+      {
+        "hun": "뜰",
+        "sori": "정"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "情",
+    "hun": "뜻",
+    "sori": "정",
+    "readings": [
+      {
+        "hun": "뜻",
+        "sori": "정"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "停",
+    "hun": "머무를",
+    "sori": "정",
+    "readings": [
+      {
+        "hun": "머무를",
+        "sori": "정"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "正",
+    "hun": "바를",
+    "sori": "정",
+    "readings": [
+      {
+        "hun": "바를",
+        "sori": "정"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "政",
+    "hun": "정사(政事)",
+    "sori": "정",
+    "readings": [
+      {
+        "hun": "정사(政事)",
+        "sori": "정"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "精",
+    "hun": "정할",
+    "sori": "정",
+    "readings": [
+      {
+        "hun": "정할",
+        "sori": "정"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "定",
+    "hun": "정할",
+    "sori": "정",
+    "readings": [
+      {
+        "hun": "정할",
+        "sori": "정"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "程",
+    "hun": "한도/길[道]",
+    "sori": "정",
+    "readings": [
+      {
+        "hun": "한도/길[道]",
+        "sori": "정"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "濟",
+    "hun": "건널",
+    "sori": "제",
+    "readings": [
+      {
+        "hun": "건널",
+        "sori": "제"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "提",
+    "hun": "끌",
+    "sori": "제",
+    "readings": [
+      {
+        "hun": "끌",
+        "sori": "제"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "除",
+    "hun": "덜",
+    "sori": "제",
+    "readings": [
+      {
+        "hun": "덜",
+        "sori": "제"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "弟",
+    "hun": "아우",
+    "sori": "제",
+    "readings": [
+      {
+        "hun": "아우",
+        "sori": "제"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "帝",
+    "hun": "임금",
+    "sori": "제",
+    "readings": [
+      {
+        "hun": "임금",
+        "sori": "제"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "制",
+    "hun": "절제할",
+    "sori": "제",
+    "readings": [
+      {
+        "hun": "절제할",
+        "sori": "제"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "題",
+    "hun": "제목",
+    "sori": "제",
+    "readings": [
+      {
+        "hun": "제목",
+        "sori": "제"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "祭",
+    "hun": "제사",
+    "sori": "제",
+    "readings": [
+      {
+        "hun": "제사",
+        "sori": "제"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "際",
+    "hun": "즈음/가[邊]",
+    "sori": "제",
+    "readings": [
+      {
+        "hun": "즈음/가[邊]",
+        "sori": "제"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "製",
+    "hun": "지을",
+    "sori": "제",
+    "readings": [
+      {
+        "hun": "지을",
+        "sori": "제"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "第",
+    "hun": "차례",
+    "sori": "제",
+    "readings": [
+      {
+        "hun": "차례",
+        "sori": "제"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "條",
+    "hun": "가지",
+    "sori": "조",
+    "readings": [
+      {
+        "hun": "가지",
+        "sori": "조"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "調",
+    "hun": "고를",
+    "sori": "조",
+    "readings": [
+      {
+        "hun": "고를",
+        "sori": "조"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "助",
+    "hun": "도울",
+    "sori": "조",
+    "readings": [
+      {
+        "hun": "도울",
+        "sori": "조"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "潮",
+    "hun": "밀물/조수",
+    "sori": "조",
+    "readings": [
+      {
+        "hun": "밀물/조수",
+        "sori": "조"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "鳥",
+    "hun": "새",
+    "sori": "조",
+    "readings": [
+      {
+        "hun": "새",
+        "sori": "조"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "朝",
+    "hun": "아침",
+    "sori": "조",
+    "readings": [
+      {
+        "hun": "아침",
+        "sori": "조"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "早",
+    "hun": "이를",
+    "sori": "조",
+    "readings": [
+      {
+        "hun": "이를",
+        "sori": "조"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "操",
+    "hun": "잡을",
+    "sori": "조",
+    "readings": [
+      {
+        "hun": "잡을",
+        "sori": "조"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "造",
+    "hun": "지을",
+    "sori": "조",
+    "readings": [
+      {
+        "hun": "지을",
+        "sori": "조"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "組",
+    "hun": "짤",
+    "sori": "조",
+    "readings": [
+      {
+        "hun": "짤",
+        "sori": "조"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "祖",
+    "hun": "할아비",
+    "sori": "조",
+    "readings": [
+      {
+        "hun": "할아비",
+        "sori": "조"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "族",
+    "hun": "겨레",
+    "sori": "족",
+    "readings": [
+      {
+        "hun": "겨레",
+        "sori": "족"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "足",
+    "hun": "발",
+    "sori": "족",
+    "readings": [
+      {
+        "hun": "발",
+        "sori": "족"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "尊",
+    "hun": "높을",
+    "sori": "존",
+    "readings": [
+      {
+        "hun": "높을",
+        "sori": "존"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "存",
+    "hun": "있을",
+    "sori": "존",
+    "readings": [
+      {
+        "hun": "있을",
+        "sori": "존"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "卒",
+    "hun": "마칠",
+    "sori": "졸",
+    "readings": [
+      {
+        "hun": "마칠",
+        "sori": "졸"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "宗",
+    "hun": "마루",
+    "sori": "종",
+    "readings": [
+      {
+        "hun": "마루",
+        "sori": "종"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "終",
+    "hun": "마칠",
+    "sori": "종",
+    "readings": [
+      {
+        "hun": "마칠",
+        "sori": "종"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "鍾",
+    "hun": "쇠북",
+    "sori": "종",
+    "readings": [
+      {
+        "hun": "쇠북",
+        "sori": "종"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "種",
+    "hun": "씨",
+    "sori": "종",
+    "readings": [
+      {
+        "hun": "씨",
+        "sori": "종"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "從",
+    "hun": "좇을",
+    "sori": "종",
+    "readings": [
+      {
+        "hun": "좇을",
+        "sori": "종"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "左",
+    "hun": "왼",
+    "sori": "좌",
+    "readings": [
+      {
+        "hun": "왼",
+        "sori": "좌"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "座",
+    "hun": "자리",
+    "sori": "좌",
+    "readings": [
+      {
+        "hun": "자리",
+        "sori": "좌"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "罪",
+    "hun": "허물",
+    "sori": "죄",
+    "readings": [
+      {
+        "hun": "허물",
+        "sori": "죄"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "州",
+    "hun": "고을",
+    "sori": "주",
+    "readings": [
+      {
+        "hun": "고을",
+        "sori": "주"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "晝",
+    "hun": "낮",
+    "sori": "주",
+    "readings": [
+      {
+        "hun": "낮",
+        "sori": "주"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "走",
+    "hun": "달릴",
+    "sori": "주",
+    "readings": [
+      {
+        "hun": "달릴",
+        "sori": "주"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "周",
+    "hun": "두루",
+    "sori": "주",
+    "readings": [
+      {
+        "hun": "두루",
+        "sori": "주"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "注",
+    "hun": "부을",
+    "sori": "주",
+    "readings": [
+      {
+        "hun": "부을",
+        "sori": "주"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "朱",
+    "hun": "붉을",
+    "sori": "주",
+    "readings": [
+      {
+        "hun": "붉을",
+        "sori": "주"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "住",
+    "hun": "살",
+    "sori": "주",
+    "readings": [
+      {
+        "hun": "살",
+        "sori": "주"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "酒",
+    "hun": "술",
+    "sori": "주",
+    "readings": [
+      {
+        "hun": "술",
+        "sori": "주"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "主",
+    "hun": "임금/주인",
+    "sori": "주",
+    "readings": [
+      {
+        "hun": "임금/주인",
+        "sori": "주"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "週",
+    "hun": "주일",
+    "sori": "주",
+    "readings": [
+      {
+        "hun": "주일",
+        "sori": "주"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "竹",
+    "hun": "대",
+    "sori": "죽",
+    "readings": [
+      {
+        "hun": "대",
+        "sori": "죽"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "準",
+    "hun": "준할",
+    "sori": "준",
+    "readings": [
+      {
+        "hun": "준할",
+        "sori": "준"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "中",
+    "hun": "가운데",
+    "sori": "중",
+    "readings": [
+      {
+        "hun": "가운데",
+        "sori": "중"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "重",
+    "hun": "무거울",
+    "sori": "중",
+    "readings": [
+      {
+        "hun": "무거울",
+        "sori": "중"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "衆",
+    "hun": "무리",
+    "sori": "중",
+    "readings": [
+      {
+        "hun": "무리",
+        "sori": "중"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "增",
+    "hun": "더할",
+    "sori": "증",
+    "readings": [
+      {
+        "hun": "더할",
+        "sori": "증"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "證",
+    "hun": "증거",
+    "sori": "증",
+    "readings": [
+      {
+        "hun": "증거",
+        "sori": "증"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "指",
+    "hun": "가리킬",
+    "sori": "지",
+    "readings": [
+      {
+        "hun": "가리킬",
+        "sori": "지"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "持",
+    "hun": "가질",
+    "sori": "지",
+    "readings": [
+      {
+        "hun": "가질",
+        "sori": "지"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "止",
+    "hun": "그칠",
+    "sori": "지",
+    "readings": [
+      {
+        "hun": "그칠",
+        "sori": "지"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "誌",
+    "hun": "기록할",
+    "sori": "지",
+    "readings": [
+      {
+        "hun": "기록할",
+        "sori": "지"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "地",
+    "hun": "따",
+    "sori": "지",
+    "readings": [
+      {
+        "hun": "따",
+        "sori": "지"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "志",
+    "hun": "뜻",
+    "sori": "지",
+    "readings": [
+      {
+        "hun": "뜻",
+        "sori": "지"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "智",
+    "hun": "슬기/지혜",
+    "sori": "지",
+    "readings": [
+      {
+        "hun": "슬기/지혜",
+        "sori": "지"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "知",
+    "hun": "알",
+    "sori": "지",
+    "readings": [
+      {
+        "hun": "알",
+        "sori": "지"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "至",
+    "hun": "이를",
+    "sori": "지",
+    "readings": [
+      {
+        "hun": "이를",
+        "sori": "지"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "紙",
+    "hun": "종이",
+    "sori": "지",
+    "readings": [
+      {
+        "hun": "종이",
+        "sori": "지"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "支",
+    "hun": "지탱할",
+    "sori": "지",
+    "readings": [
+      {
+        "hun": "지탱할",
+        "sori": "지"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "直",
+    "hun": "곧을",
+    "sori": "직",
+    "readings": [
+      {
+        "hun": "곧을",
+        "sori": "직"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "職",
+    "hun": "직분",
+    "sori": "직",
+    "readings": [
+      {
+        "hun": "직분",
+        "sori": "직"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "織",
+    "hun": "짤",
+    "sori": "직",
+    "readings": [
+      {
+        "hun": "짤",
+        "sori": "직"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "進",
+    "hun": "나아갈",
+    "sori": "진",
+    "readings": [
+      {
+        "hun": "나아갈",
+        "sori": "진"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "盡",
+    "hun": "다할",
+    "sori": "진",
+    "readings": [
+      {
+        "hun": "다할",
+        "sori": "진"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "珍",
+    "hun": "보배",
+    "sori": "진",
+    "readings": [
+      {
+        "hun": "보배",
+        "sori": "진"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "陣",
+    "hun": "진칠",
+    "sori": "진",
+    "readings": [
+      {
+        "hun": "진칠",
+        "sori": "진"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "眞",
+    "hun": "참",
+    "sori": "진",
+    "readings": [
+      {
+        "hun": "참",
+        "sori": "진"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "質",
+    "hun": "바탕",
+    "sori": "질",
+    "readings": [
+      {
+        "hun": "바탕",
+        "sori": "질"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "集",
+    "hun": "모을",
+    "sori": "집",
+    "readings": [
+      {
+        "hun": "모을",
+        "sori": "집"
+      }
+    ],
+    "consonant": "ㅈ"
+  },
+  {
+    "char": "差",
+    "hun": "다를",
+    "sori": "차",
+    "readings": [
+      {
+        "hun": "다를",
+        "sori": "차"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "次",
+    "hun": "버금",
+    "sori": "차",
+    "readings": [
+      {
+        "hun": "버금",
+        "sori": "차"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "着",
+    "hun": "붙을",
+    "sori": "착",
+    "readings": [
+      {
+        "hun": "붙을",
+        "sori": "착"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "讚",
+    "hun": "기릴",
+    "sori": "찬",
+    "readings": [
+      {
+        "hun": "기릴",
+        "sori": "찬"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "察",
+    "hun": "살필",
+    "sori": "찰",
+    "readings": [
+      {
+        "hun": "살필",
+        "sori": "찰"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "參",
+    "hun": "참여할",
+    "sori": "참",
+    "readings": [
+      {
+        "hun": "참여할",
+        "sori": "참"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "唱",
+    "hun": "부를",
+    "sori": "창",
+    "readings": [
+      {
+        "hun": "부를",
+        "sori": "창"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "創",
+    "hun": "비롯할",
+    "sori": "창",
+    "readings": [
+      {
+        "hun": "비롯할",
+        "sori": "창"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "窓",
+    "hun": "창",
+    "sori": "창",
+    "readings": [
+      {
+        "hun": "창",
+        "sori": "창"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "採",
+    "hun": "캘",
+    "sori": "채",
+    "readings": [
+      {
+        "hun": "캘",
+        "sori": "채"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "責",
+    "hun": "꾸짖을",
+    "sori": "책",
+    "readings": [
+      {
+        "hun": "꾸짖을",
+        "sori": "책"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "冊",
+    "hun": "책",
+    "sori": "책",
+    "readings": [
+      {
+        "hun": "책",
+        "sori": "책"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "處",
+    "hun": "곳",
+    "sori": "처",
+    "readings": [
+      {
+        "hun": "곳",
+        "sori": "처"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "川",
+    "hun": "내",
+    "sori": "천",
+    "readings": [
+      {
+        "hun": "내",
+        "sori": "천"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "泉",
+    "hun": "샘",
+    "sori": "천",
+    "readings": [
+      {
+        "hun": "샘",
+        "sori": "천"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "千",
+    "hun": "일천",
+    "sori": "천",
+    "readings": [
+      {
+        "hun": "일천",
+        "sori": "천"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "天",
+    "hun": "하늘",
+    "sori": "천",
+    "readings": [
+      {
+        "hun": "하늘",
+        "sori": "천"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "鐵",
+    "hun": "쇠",
+    "sori": "철",
+    "readings": [
+      {
+        "hun": "쇠",
+        "sori": "철"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "廳",
+    "hun": "관청",
+    "sori": "청",
+    "readings": [
+      {
+        "hun": "관청",
+        "sori": "청"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "聽",
+    "hun": "들을",
+    "sori": "청",
+    "readings": [
+      {
+        "hun": "들을",
+        "sori": "청"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "淸",
+    "hun": "맑을",
+    "sori": "청",
+    "readings": [
+      {
+        "hun": "맑을",
+        "sori": "청"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "請",
+    "hun": "청할",
+    "sori": "청",
+    "readings": [
+      {
+        "hun": "청할",
+        "sori": "청"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "靑",
+    "hun": "푸를",
+    "sori": "청",
+    "readings": [
+      {
+        "hun": "푸를",
+        "sori": "청"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "體",
+    "hun": "몸",
+    "sori": "체",
+    "readings": [
+      {
+        "hun": "몸",
+        "sori": "체"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "招",
+    "hun": "부를",
+    "sori": "초",
+    "readings": [
+      {
+        "hun": "부를",
+        "sori": "초"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "初",
+    "hun": "처음",
+    "sori": "초",
+    "readings": [
+      {
+        "hun": "처음",
+        "sori": "초"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "草",
+    "hun": "풀",
+    "sori": "초",
+    "readings": [
+      {
+        "hun": "풀",
+        "sori": "초"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "寸",
+    "hun": "마디",
+    "sori": "촌",
+    "readings": [
+      {
+        "hun": "마디",
+        "sori": "촌"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "村",
+    "hun": "마을",
+    "sori": "촌",
+    "readings": [
+      {
+        "hun": "마을",
+        "sori": "촌"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "總",
+    "hun": "다[皆]",
+    "sori": "총",
+    "readings": [
+      {
+        "hun": "다[皆]",
+        "sori": "총"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "銃",
+    "hun": "총",
+    "sori": "총",
+    "readings": [
+      {
+        "hun": "총",
+        "sori": "총"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "最",
+    "hun": "가장",
+    "sori": "최",
+    "readings": [
+      {
+        "hun": "가장",
+        "sori": "최"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "秋",
+    "hun": "가을",
+    "sori": "추",
+    "readings": [
+      {
+        "hun": "가을",
+        "sori": "추"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "推",
+    "hun": "밀",
+    "sori": "추",
+    "readings": [
+      {
+        "hun": "밀",
+        "sori": "추"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "蓄",
+    "hun": "모을",
+    "sori": "축",
+    "readings": [
+      {
+        "hun": "모을",
+        "sori": "축"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "祝",
+    "hun": "빌",
+    "sori": "축",
+    "readings": [
+      {
+        "hun": "빌",
+        "sori": "축"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "築",
+    "hun": "쌓을",
+    "sori": "축",
+    "readings": [
+      {
+        "hun": "쌓을",
+        "sori": "축"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "縮",
+    "hun": "줄일",
+    "sori": "축",
+    "readings": [
+      {
+        "hun": "줄일",
+        "sori": "축"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "春",
+    "hun": "봄",
+    "sori": "춘",
+    "readings": [
+      {
+        "hun": "봄",
+        "sori": "춘"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "出",
+    "hun": "날[生]",
+    "sori": "출",
+    "readings": [
+      {
+        "hun": "날[生]",
+        "sori": "출"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "蟲",
+    "hun": "벌레",
+    "sori": "충",
+    "readings": [
+      {
+        "hun": "벌레",
+        "sori": "충"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "充",
+    "hun": "채울",
+    "sori": "충",
+    "readings": [
+      {
+        "hun": "채울",
+        "sori": "충"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "忠",
+    "hun": "충성",
+    "sori": "충",
+    "readings": [
+      {
+        "hun": "충성",
+        "sori": "충"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "取",
+    "hun": "가질",
+    "sori": "취",
+    "readings": [
+      {
+        "hun": "가질",
+        "sori": "취"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "就",
+    "hun": "나아갈",
+    "sori": "취",
+    "readings": [
+      {
+        "hun": "나아갈",
+        "sori": "취"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "趣",
+    "hun": "뜻",
+    "sori": "취",
+    "readings": [
+      {
+        "hun": "뜻",
+        "sori": "취"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "測",
+    "hun": "헤아릴",
+    "sori": "측",
+    "readings": [
+      {
+        "hun": "헤아릴",
+        "sori": "측"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "層",
+    "hun": "층[層階]",
+    "sori": "층",
+    "readings": [
+      {
+        "hun": "층[層階]",
+        "sori": "층"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "治",
+    "hun": "다스릴",
+    "sori": "치",
+    "readings": [
+      {
+        "hun": "다스릴",
+        "sori": "치"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "置",
+    "hun": "둘[措]",
+    "sori": "치",
+    "readings": [
+      {
+        "hun": "둘[措]",
+        "sori": "치"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "齒",
+    "hun": "이",
+    "sori": "치",
+    "readings": [
+      {
+        "hun": "이",
+        "sori": "치"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "致",
+    "hun": "이를",
+    "sori": "치",
+    "readings": [
+      {
+        "hun": "이를",
+        "sori": "치"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "則",
+    "hun": "법칙",
+    "sori": "칙",
+    "readings": [
+      {
+        "hun": "법칙",
+        "sori": "칙"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "親",
+    "hun": "친할",
+    "sori": "친",
+    "readings": [
+      {
+        "hun": "친할",
+        "sori": "친"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "七",
+    "hun": "일곱",
+    "sori": "칠",
+    "readings": [
+      {
+        "hun": "일곱",
+        "sori": "칠"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "針",
+    "hun": "바늘",
+    "sori": "침",
+    "readings": [
+      {
+        "hun": "바늘",
+        "sori": "침"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "寢",
+    "hun": "잘",
+    "sori": "침",
+    "readings": [
+      {
+        "hun": "잘",
+        "sori": "침"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "侵",
+    "hun": "침노할",
+    "sori": "침",
+    "readings": [
+      {
+        "hun": "침노할",
+        "sori": "침"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "稱",
+    "hun": "일컬을",
+    "sori": "칭",
+    "readings": [
+      {
+        "hun": "일컬을",
+        "sori": "칭"
+      }
+    ],
+    "consonant": "ㅊ"
+  },
+  {
+    "char": "快",
+    "hun": "쾌할",
+    "sori": "쾌",
+    "readings": [
+      {
+        "hun": "쾌할",
+        "sori": "쾌"
+      }
+    ],
+    "consonant": "ㅋ"
+  },
+  {
+    "char": "他",
+    "hun": "다를",
+    "sori": "타",
+    "readings": [
+      {
+        "hun": "다를",
+        "sori": "타"
+      }
+    ],
+    "consonant": "ㅌ"
+  },
+  {
+    "char": "打",
+    "hun": "칠",
+    "sori": "타",
+    "readings": [
+      {
+        "hun": "칠",
+        "sori": "타"
+      }
+    ],
+    "consonant": "ㅌ"
+  },
+  {
+    "char": "卓",
+    "hun": "높을",
+    "sori": "탁",
+    "readings": [
+      {
+        "hun": "높을",
+        "sori": "탁"
+      }
+    ],
+    "consonant": "ㅌ"
+  },
+  {
+    "char": "炭",
+    "hun": "숯",
+    "sori": "탄",
+    "readings": [
+      {
+        "hun": "숯",
+        "sori": "탄"
+      }
+    ],
+    "consonant": "ㅌ"
+  },
+  {
+    "char": "歎",
+    "hun": "탄식할",
+    "sori": "탄",
+    "readings": [
+      {
+        "hun": "탄식할",
+        "sori": "탄"
+      }
+    ],
+    "consonant": "ㅌ"
+  },
+  {
+    "char": "彈",
+    "hun": "탄알",
+    "sori": "탄",
+    "readings": [
+      {
+        "hun": "탄알",
+        "sori": "탄"
+      }
+    ],
+    "consonant": "ㅌ"
+  },
+  {
+    "char": "脫",
+    "hun": "벗을",
+    "sori": "탈",
+    "readings": [
+      {
+        "hun": "벗을",
+        "sori": "탈"
+      }
+    ],
+    "consonant": "ㅌ"
+  },
+  {
+    "char": "探",
+    "hun": "찾을",
+    "sori": "탐",
+    "readings": [
+      {
+        "hun": "찾을",
+        "sori": "탐"
+      }
+    ],
+    "consonant": "ㅌ"
+  },
+  {
+    "char": "態",
+    "hun": "모습",
+    "sori": "태",
+    "readings": [
+      {
+        "hun": "모습",
+        "sori": "태"
+      }
+    ],
+    "consonant": "ㅌ"
+  },
+  {
+    "char": "太",
+    "hun": "클",
+    "sori": "태",
+    "readings": [
+      {
+        "hun": "클",
+        "sori": "태"
+      }
+    ],
+    "consonant": "ㅌ"
+  },
+  {
+    "char": "擇",
+    "hun": "가릴",
+    "sori": "택",
+    "readings": [
+      {
+        "hun": "가릴",
+        "sori": "택"
+      }
+    ],
+    "consonant": "ㅌ"
+  },
+  {
+    "char": "宅",
+    "hun": "집",
+    "sori": "택",
+    "readings": [
+      {
+        "hun": "집",
+        "sori": "택"
+      }
+    ],
+    "consonant": "ㅌ"
+  },
+  {
+    "char": "討",
+    "hun": "칠",
+    "sori": "토",
+    "readings": [
+      {
+        "hun": "칠",
+        "sori": "토"
+      }
+    ],
+    "consonant": "ㅌ"
+  },
+  {
+    "char": "土",
+    "hun": "흙",
+    "sori": "토",
+    "readings": [
+      {
+        "hun": "흙",
+        "sori": "토"
+      }
+    ],
+    "consonant": "ㅌ"
+  },
+  {
+    "char": "統",
+    "hun": "거느릴",
+    "sori": "통",
+    "readings": [
+      {
+        "hun": "거느릴",
+        "sori": "통"
+      }
+    ],
+    "consonant": "ㅌ"
+  },
+  {
+    "char": "痛",
+    "hun": "아플",
+    "sori": "통",
+    "readings": [
+      {
+        "hun": "아플",
+        "sori": "통"
+      }
+    ],
+    "consonant": "ㅌ"
+  },
+  {
+    "char": "通",
+    "hun": "통할",
+    "sori": "통",
+    "readings": [
+      {
+        "hun": "통할",
+        "sori": "통"
+      }
+    ],
+    "consonant": "ㅌ"
+  },
+  {
+    "char": "退",
+    "hun": "물러날",
+    "sori": "퇴",
+    "readings": [
+      {
+        "hun": "물러날",
+        "sori": "퇴"
+      }
+    ],
+    "consonant": "ㅌ"
+  },
+  {
+    "char": "投",
+    "hun": "던질",
+    "sori": "투",
+    "readings": [
+      {
+        "hun": "던질",
+        "sori": "투"
+      }
+    ],
+    "consonant": "ㅌ"
+  },
+  {
+    "char": "鬪",
+    "hun": "싸움",
+    "sori": "투",
+    "readings": [
+      {
+        "hun": "싸움",
+        "sori": "투"
+      }
+    ],
+    "consonant": "ㅌ"
+  },
+  {
+    "char": "特",
+    "hun": "특별할",
+    "sori": "특",
+    "readings": [
+      {
+        "hun": "특별할",
+        "sori": "특"
+      }
+    ],
+    "consonant": "ㅌ"
+  },
+  {
+    "char": "派",
+    "hun": "갈래",
+    "sori": "파",
+    "readings": [
+      {
+        "hun": "갈래",
+        "sori": "파"
+      }
+    ],
+    "consonant": "ㅍ"
+  },
+  {
+    "char": "破",
+    "hun": "깨뜨릴",
+    "sori": "파",
+    "readings": [
+      {
+        "hun": "깨뜨릴",
+        "sori": "파"
+      }
+    ],
+    "consonant": "ㅍ"
+  },
+  {
+    "char": "波",
+    "hun": "물결",
+    "sori": "파",
+    "readings": [
+      {
+        "hun": "물결",
+        "sori": "파"
+      }
+    ],
+    "consonant": "ㅍ"
+  },
+  {
+    "char": "板",
+    "hun": "널",
+    "sori": "판",
+    "readings": [
+      {
+        "hun": "널",
+        "sori": "판"
+      }
+    ],
+    "consonant": "ㅍ"
+  },
+  {
+    "char": "判",
+    "hun": "판단할",
+    "sori": "판",
+    "readings": [
+      {
+        "hun": "판단할",
+        "sori": "판"
+      }
+    ],
+    "consonant": "ㅍ"
+  },
+  {
+    "char": "八",
+    "hun": "여덟",
+    "sori": "팔",
+    "readings": [
+      {
+        "hun": "여덟",
+        "sori": "팔"
+      }
+    ],
+    "consonant": "ㅍ"
+  },
+  {
+    "char": "敗",
+    "hun": "패할",
+    "sori": "패",
+    "readings": [
+      {
+        "hun": "패할",
+        "sori": "패"
+      }
+    ],
+    "consonant": "ㅍ"
+  },
+  {
+    "char": "篇",
+    "hun": "책",
+    "sori": "편",
+    "readings": [
+      {
+        "hun": "책",
+        "sori": "편"
+      }
+    ],
+    "consonant": "ㅍ"
+  },
+  {
+    "char": "便",
+    "hun": "편할",
+    "sori": "편",
+    "readings": [
+      {
+        "hun": "편할",
+        "sori": "편"
+      },
+      {
+        "hun": "똥오줌",
+        "sori": "변"
+      }
+    ],
+    "consonant": "ㅍ"
+  },
+  {
+    "char": "平",
+    "hun": "평평할",
+    "sori": "평",
+    "readings": [
+      {
+        "hun": "평평할",
+        "sori": "평"
+      }
+    ],
+    "consonant": "ㅍ"
+  },
+  {
+    "char": "評",
+    "hun": "평할",
+    "sori": "평",
+    "readings": [
+      {
+        "hun": "평할",
+        "sori": "평"
+      }
+    ],
+    "consonant": "ㅍ"
+  },
+  {
+    "char": "閉",
+    "hun": "닫을",
+    "sori": "폐",
+    "readings": [
+      {
+        "hun": "닫을",
+        "sori": "폐"
+      }
+    ],
+    "consonant": "ㅍ"
+  },
+  {
+    "char": "砲",
+    "hun": "대포",
+    "sori": "포",
+    "readings": [
+      {
+        "hun": "대포",
+        "sori": "포"
+      }
+    ],
+    "consonant": "ㅍ"
+  },
+  {
+    "char": "布",
+    "hun": "베/펼",
+    "sori": "포",
+    "readings": [
+      {
+        "hun": "베/펼",
+        "sori": "포"
+      },
+      {
+        "hun": "보시",
+        "sori": "보"
+      }
+    ],
+    "consonant": "ㅍ"
+  },
+  {
+    "char": "胞",
+    "hun": "세포",
+    "sori": "포",
+    "readings": [
+      {
+        "hun": "세포",
+        "sori": "포"
+      }
+    ],
+    "consonant": "ㅍ"
+  },
+  {
+    "char": "包",
+    "hun": "쌀[裹]",
+    "sori": "포",
+    "readings": [
+      {
+        "hun": "쌀[裹]",
+        "sori": "포"
+      }
+    ],
+    "consonant": "ㅍ"
+  },
+  {
+    "char": "爆",
+    "hun": "불터질",
+    "sori": "폭",
+    "readings": [
+      {
+        "hun": "불터질",
+        "sori": "폭"
+      }
+    ],
+    "consonant": "ㅍ"
+  },
+  {
+    "char": "暴",
+    "hun": "사나울",
+    "sori": "폭",
+    "readings": [
+      {
+        "hun": "사나울",
+        "sori": "폭"
+      },
+      {
+        "hun": "모질",
+        "sori": "포"
+      }
+    ],
+    "consonant": "ㅍ"
+  },
+  {
+    "char": "表",
+    "hun": "겉",
+    "sori": "표",
+    "readings": [
+      {
+        "hun": "겉",
+        "sori": "표"
+      }
+    ],
+    "consonant": "ㅍ"
+  },
+  {
+    "char": "票",
+    "hun": "표",
+    "sori": "표",
+    "readings": [
+      {
+        "hun": "표",
+        "sori": "표"
+      }
+    ],
+    "consonant": "ㅍ"
+  },
+  {
+    "char": "標",
+    "hun": "표할",
+    "sori": "표",
+    "readings": [
+      {
+        "hun": "표할",
+        "sori": "표"
+      }
+    ],
+    "consonant": "ㅍ"
+  },
+  {
+    "char": "品",
+    "hun": "물건",
+    "sori": "품",
+    "readings": [
+      {
+        "hun": "물건",
+        "sori": "품"
+      }
+    ],
+    "consonant": "ㅍ"
+  },
+  {
+    "char": "風",
+    "hun": "바람",
+    "sori": "풍",
+    "readings": [
+      {
+        "hun": "바람",
+        "sori": "풍"
+      }
+    ],
+    "consonant": "ㅍ"
+  },
+  {
+    "char": "豊",
+    "hun": "풍년",
+    "sori": "풍",
+    "readings": [
+      {
+        "hun": "풍년",
+        "sori": "풍"
+      }
+    ],
+    "consonant": "ㅍ"
+  },
+  {
+    "char": "疲",
+    "hun": "피곤할",
+    "sori": "피",
+    "readings": [
+      {
+        "hun": "피곤할",
+        "sori": "피"
+      }
+    ],
+    "consonant": "ㅍ"
+  },
+  {
+    "char": "避",
+    "hun": "피할",
+    "sori": "피",
+    "readings": [
+      {
+        "hun": "피할",
+        "sori": "피"
+      }
+    ],
+    "consonant": "ㅍ"
+  },
+  {
+    "char": "必",
+    "hun": "반드시",
+    "sori": "필",
+    "readings": [
+      {
+        "hun": "반드시",
+        "sori": "필"
+      }
+    ],
+    "consonant": "ㅍ"
+  },
+  {
+    "char": "筆",
+    "hun": "붓",
+    "sori": "필",
+    "readings": [
+      {
+        "hun": "붓",
+        "sori": "필"
+      }
+    ],
+    "consonant": "ㅍ"
+  },
+  {
+    "char": "河",
+    "hun": "물",
+    "sori": "하",
+    "readings": [
+      {
+        "hun": "물",
+        "sori": "하"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "下",
+    "hun": "아래",
+    "sori": "하",
+    "readings": [
+      {
+        "hun": "아래",
+        "sori": "하"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "夏",
+    "hun": "여름",
+    "sori": "하",
+    "readings": [
+      {
+        "hun": "여름",
+        "sori": "하"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "學",
+    "hun": "배울",
+    "sori": "학",
+    "readings": [
+      {
+        "hun": "배울",
+        "sori": "학"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "寒",
+    "hun": "찰",
+    "sori": "한",
+    "readings": [
+      {
+        "hun": "찰",
+        "sori": "한"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "恨",
+    "hun": "한[怨]",
+    "sori": "한",
+    "readings": [
+      {
+        "hun": "한[怨]",
+        "sori": "한"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "閑",
+    "hun": "한가할",
+    "sori": "한",
+    "readings": [
+      {
+        "hun": "한가할",
+        "sori": "한"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "韓",
+    "hun": "한국/나라",
+    "sori": "한",
+    "readings": [
+      {
+        "hun": "한국/나라",
+        "sori": "한"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "漢",
+    "hun": "한수/한나라",
+    "sori": "한",
+    "readings": [
+      {
+        "hun": "한수/한나라",
+        "sori": "한"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "限",
+    "hun": "한할",
+    "sori": "한",
+    "readings": [
+      {
+        "hun": "한할",
+        "sori": "한"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "合",
+    "hun": "합할",
+    "sori": "합",
+    "readings": [
+      {
+        "hun": "합할",
+        "sori": "합"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "抗",
+    "hun": "겨룰",
+    "sori": "항",
+    "readings": [
+      {
+        "hun": "겨룰",
+        "sori": "항"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "航",
+    "hun": "배",
+    "sori": "항",
+    "readings": [
+      {
+        "hun": "배",
+        "sori": "항"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "港",
+    "hun": "항구",
+    "sori": "항",
+    "readings": [
+      {
+        "hun": "항구",
+        "sori": "항"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "海",
+    "hun": "바다",
+    "sori": "해",
+    "readings": [
+      {
+        "hun": "바다",
+        "sori": "해"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "解",
+    "hun": "풀",
+    "sori": "해",
+    "readings": [
+      {
+        "hun": "풀",
+        "sori": "해"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "害",
+    "hun": "해할",
+    "sori": "해",
+    "readings": [
+      {
+        "hun": "해할",
+        "sori": "해"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "核",
+    "hun": "씨",
+    "sori": "핵",
+    "readings": [
+      {
+        "hun": "씨",
+        "sori": "핵"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "行",
+    "hun": "다닐",
+    "sori": "행",
+    "readings": [
+      {
+        "hun": "다닐",
+        "sori": "행"
+      },
+      {
+        "hun": "항렬",
+        "sori": "항"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "幸",
+    "hun": "다행",
+    "sori": "행",
+    "readings": [
+      {
+        "hun": "다행",
+        "sori": "행"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "鄕",
+    "hun": "시골",
+    "sori": "향",
+    "readings": [
+      {
+        "hun": "시골",
+        "sori": "향"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "香",
+    "hun": "향기",
+    "sori": "향",
+    "readings": [
+      {
+        "hun": "향기",
+        "sori": "향"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "向",
+    "hun": "향할",
+    "sori": "향",
+    "readings": [
+      {
+        "hun": "향할",
+        "sori": "향"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "虛",
+    "hun": "빌",
+    "sori": "허",
+    "readings": [
+      {
+        "hun": "빌",
+        "sori": "허"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "許",
+    "hun": "허락할",
+    "sori": "허",
+    "readings": [
+      {
+        "hun": "허락할",
+        "sori": "허"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "憲",
+    "hun": "법",
+    "sori": "헌",
+    "readings": [
+      {
+        "hun": "법",
+        "sori": "헌"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "驗",
+    "hun": "시험",
+    "sori": "험",
+    "readings": [
+      {
+        "hun": "시험",
+        "sori": "험"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "險",
+    "hun": "험할",
+    "sori": "험",
+    "readings": [
+      {
+        "hun": "험할",
+        "sori": "험"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "革",
+    "hun": "가죽",
+    "sori": "혁",
+    "readings": [
+      {
+        "hun": "가죽",
+        "sori": "혁"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "現",
+    "hun": "나타날",
+    "sori": "현",
+    "readings": [
+      {
+        "hun": "나타날",
+        "sori": "현"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "顯",
+    "hun": "나타날",
+    "sori": "현",
+    "readings": [
+      {
+        "hun": "나타날",
+        "sori": "현"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "賢",
+    "hun": "어질",
+    "sori": "현",
+    "readings": [
+      {
+        "hun": "어질",
+        "sori": "현"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "血",
+    "hun": "피",
+    "sori": "혈",
+    "readings": [
+      {
+        "hun": "피",
+        "sori": "혈"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "協",
+    "hun": "화할",
+    "sori": "협",
+    "readings": [
+      {
+        "hun": "화할",
+        "sori": "협"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "形",
+    "hun": "모양",
+    "sori": "형",
+    "readings": [
+      {
+        "hun": "모양",
+        "sori": "형"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "兄",
+    "hun": "형",
+    "sori": "형",
+    "readings": [
+      {
+        "hun": "형",
+        "sori": "형"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "刑",
+    "hun": "형벌",
+    "sori": "형",
+    "readings": [
+      {
+        "hun": "형벌",
+        "sori": "형"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "惠",
+    "hun": "은혜",
+    "sori": "혜",
+    "readings": [
+      {
+        "hun": "은혜",
+        "sori": "혜"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "護",
+    "hun": "도울",
+    "sori": "호",
+    "readings": [
+      {
+        "hun": "도울",
+        "sori": "호"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "呼",
+    "hun": "부를",
+    "sori": "호",
+    "readings": [
+      {
+        "hun": "부를",
+        "sori": "호"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "號",
+    "hun": "이름",
+    "sori": "호",
+    "readings": [
+      {
+        "hun": "이름",
+        "sori": "호"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "好",
+    "hun": "좋을",
+    "sori": "호",
+    "readings": [
+      {
+        "hun": "좋을",
+        "sori": "호"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "戶",
+    "hun": "집",
+    "sori": "호",
+    "readings": [
+      {
+        "hun": "집",
+        "sori": "호"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "湖",
+    "hun": "호수",
+    "sori": "호",
+    "readings": [
+      {
+        "hun": "호수",
+        "sori": "호"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "或",
+    "hun": "혹",
+    "sori": "혹",
+    "readings": [
+      {
+        "hun": "혹",
+        "sori": "혹"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "混",
+    "hun": "섞을",
+    "sori": "혼",
+    "readings": [
+      {
+        "hun": "섞을",
+        "sori": "혼"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "婚",
+    "hun": "혼인할",
+    "sori": "혼",
+    "readings": [
+      {
+        "hun": "혼인할",
+        "sori": "혼"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "紅",
+    "hun": "붉을",
+    "sori": "홍",
+    "readings": [
+      {
+        "hun": "붉을",
+        "sori": "홍"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "畫",
+    "hun": "그림",
+    "sori": "화",
+    "readings": [
+      {
+        "hun": "그림",
+        "sori": "화"
+      },
+      {
+        "hun": "그을",
+        "sori": "획",
+        "note": "(劃)"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "花",
+    "hun": "꽃",
+    "sori": "화",
+    "readings": [
+      {
+        "hun": "꽃",
+        "sori": "화"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "化",
+    "hun": "될",
+    "sori": "화",
+    "readings": [
+      {
+        "hun": "될",
+        "sori": "화"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "話",
+    "hun": "말씀",
+    "sori": "화",
+    "readings": [
+      {
+        "hun": "말씀",
+        "sori": "화"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "火",
+    "hun": "불",
+    "sori": "화",
+    "readings": [
+      {
+        "hun": "불",
+        "sori": "화"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "華",
+    "hun": "빛날",
+    "sori": "화",
+    "readings": [
+      {
+        "hun": "빛날",
+        "sori": "화"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "貨",
+    "hun": "재물",
+    "sori": "화",
+    "readings": [
+      {
+        "hun": "재물",
+        "sori": "화"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "和",
+    "hun": "화할",
+    "sori": "화",
+    "readings": [
+      {
+        "hun": "화할",
+        "sori": "화"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "確",
+    "hun": "굳을",
+    "sori": "확",
+    "readings": [
+      {
+        "hun": "굳을",
+        "sori": "확"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "環",
+    "hun": "고리",
+    "sori": "환",
+    "readings": [
+      {
+        "hun": "고리",
+        "sori": "환"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "患",
+    "hun": "근심",
+    "sori": "환",
+    "readings": [
+      {
+        "hun": "근심",
+        "sori": "환"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "歡",
+    "hun": "기쁠",
+    "sori": "환",
+    "readings": [
+      {
+        "hun": "기쁠",
+        "sori": "환"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "活",
+    "hun": "살",
+    "sori": "활",
+    "readings": [
+      {
+        "hun": "살",
+        "sori": "활"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "黃",
+    "hun": "누를",
+    "sori": "황",
+    "readings": [
+      {
+        "hun": "누를",
+        "sori": "황"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "況",
+    "hun": "상황",
+    "sori": "황",
+    "readings": [
+      {
+        "hun": "상황",
+        "sori": "황"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "回",
+    "hun": "돌아올",
+    "sori": "회",
+    "readings": [
+      {
+        "hun": "돌아올",
+        "sori": "회"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "會",
+    "hun": "모일",
+    "sori": "회",
+    "readings": [
+      {
+        "hun": "모일",
+        "sori": "회"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "灰",
+    "hun": "재",
+    "sori": "회",
+    "readings": [
+      {
+        "hun": "재",
+        "sori": "회"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "效",
+    "hun": "본받을",
+    "sori": "효",
+    "readings": [
+      {
+        "hun": "본받을",
+        "sori": "효"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "孝",
+    "hun": "효도",
+    "sori": "효",
+    "readings": [
+      {
+        "hun": "효도",
+        "sori": "효"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "候",
+    "hun": "기후",
+    "sori": "후",
+    "readings": [
+      {
+        "hun": "기후",
+        "sori": "후"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "厚",
+    "hun": "두터울",
+    "sori": "후",
+    "readings": [
+      {
+        "hun": "두터울",
+        "sori": "후"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "後",
+    "hun": "뒤",
+    "sori": "후",
+    "readings": [
+      {
+        "hun": "뒤",
+        "sori": "후"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "訓",
+    "hun": "가르칠",
+    "sori": "훈",
+    "readings": [
+      {
+        "hun": "가르칠",
+        "sori": "훈"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "揮",
+    "hun": "휘두를",
+    "sori": "휘",
+    "readings": [
+      {
+        "hun": "휘두를",
+        "sori": "휘"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "休",
+    "hun": "쉴",
+    "sori": "휴",
+    "readings": [
+      {
+        "hun": "쉴",
+        "sori": "휴"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "凶",
+    "hun": "흉할",
+    "sori": "흉",
+    "readings": [
+      {
+        "hun": "흉할",
+        "sori": "흉"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "黑",
+    "hun": "검을",
+    "sori": "흑",
+    "readings": [
+      {
+        "hun": "검을",
+        "sori": "흑"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "吸",
+    "hun": "마실",
+    "sori": "흡",
+    "readings": [
+      {
+        "hun": "마실",
+        "sori": "흡"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "興",
+    "hun": "일[盛]",
+    "sori": "흥",
+    "readings": [
+      {
+        "hun": "일[盛]",
+        "sori": "흥"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "喜",
+    "hun": "기쁠",
+    "sori": "희",
+    "readings": [
+      {
+        "hun": "기쁠",
+        "sori": "희"
+      }
+    ],
+    "consonant": "ㅎ"
+  },
+  {
+    "char": "希",
+    "hun": "바랄",
+    "sori": "희",
+    "readings": [
+      {
+        "hun": "바랄",
+        "sori": "희"
+      }
+    ],
+    "consonant": "ㅎ"
+  }
+]

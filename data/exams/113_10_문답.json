@@ -1,0 +1,2489 @@
+{
+  "source": "113_10_문답",
+  "round": 113,
+  "level": "1급",
+  "levelCode": "1",
+  "numQuestions": 200,
+  "questions": [
+    {
+      "num": 1,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "상처가 난 다리에 繃帶를 감았다.",
+      "answer": "붕대",
+      "hanja": [
+        "帶",
+        "繃"
+      ],
+      "words": [
+        "繃帶"
+      ]
+    },
+    {
+      "num": 2,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "봄에 농부들은 撒種 준비로 분주했다.",
+      "answer": "살종",
+      "hanja": [
+        "撒",
+        "種"
+      ],
+      "words": [
+        "撒種"
+      ]
+    },
+    {
+      "num": 3,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "동네 사람들이 파 놓은 陷穽에 멧돼지가 잡혔다.",
+      "answer": "함정",
+      "hanja": [
+        "穽",
+        "陷"
+      ],
+      "words": [
+        "陷穽"
+      ]
+    },
+    {
+      "num": 4,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "이순신의 활약으로 인해 그 지역의 왜군들이 殲滅되었다.",
+      "answer": "섬멸",
+      "hanja": [
+        "殲",
+        "滅"
+      ],
+      "words": [
+        "殲滅"
+      ]
+    },
+    {
+      "num": 5,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "분단으로 헤어졌던 형제가 50년 만에 邂逅하였다.",
+      "answer": "해후",
+      "hanja": [
+        "逅",
+        "邂"
+      ],
+      "words": [
+        "邂逅"
+      ]
+    },
+    {
+      "num": 6,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "그는 犧牲 번트를 쳐서 1루에 있던 주자를 2루로 보냈다.",
+      "answer": "희생",
+      "hanja": [
+        "牲",
+        "犧"
+      ],
+      "words": [
+        "犧牲"
+      ]
+    },
+    {
+      "num": 7,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "열차 顚覆 사고로 인해 열차 통행이 지연되었다.",
+      "answer": "전복",
+      "hanja": [
+        "覆",
+        "顚"
+      ],
+      "words": [
+        "顚覆"
+      ]
+    },
+    {
+      "num": 8,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "그녀는 너무 놀라서 들고 있던 錚盤을 바닥에 떨어뜨렸다.",
+      "answer": "쟁반",
+      "hanja": [
+        "盤",
+        "錚"
+      ],
+      "words": [
+        "錚盤"
+      ]
+    },
+    {
+      "num": 9,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "상대 팀의 강타자가 만루 홈런을 치자 관중들은 揶揄를 보냈다.",
+      "answer": "야유",
+      "hanja": [
+        "揄",
+        "揶"
+      ],
+      "words": [
+        "揶揄"
+      ]
+    },
+    {
+      "num": 10,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "관광객들의 輻輳로 국립 공원의 자연이 훼손되었다.",
+      "answer": "폭주",
+      "hanja": [
+        "輳",
+        "輻"
+      ],
+      "words": [
+        "輻輳"
+      ]
+    },
+    {
+      "num": 11,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "민지는 휴가를 얻어 오랜만에 여유를 滿喫했다.",
+      "answer": "만끽",
+      "hanja": [
+        "喫",
+        "滿"
+      ],
+      "words": [
+        "滿喫"
+      ]
+    },
+    {
+      "num": 12,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "옛사람들은 글을 쓸 때 조부 및 부친의 이름을 忌諱했다.",
+      "answer": "기휘",
+      "hanja": [
+        "忌",
+        "諱"
+      ],
+      "words": [
+        "忌諱"
+      ]
+    },
+    {
+      "num": 13,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "아버지를 여의었을 때에는 斬衰의 상복을 삼 년간 입는다.",
+      "answer": "참최",
+      "hanja": [
+        "斬",
+        "衰"
+      ],
+      "words": [
+        "斬衰"
+      ]
+    },
+    {
+      "num": 14,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "그 목욕탕에는 浴槽가 없고 샤워기만 있었다.",
+      "answer": "욕조",
+      "hanja": [
+        "槽",
+        "浴"
+      ],
+      "words": [
+        "浴槽"
+      ]
+    },
+    {
+      "num": 15,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "그들은 가난의 桎梏에서 벗어나기 위해 온갖 노력을 했다.",
+      "answer": "질곡",
+      "hanja": [
+        "桎",
+        "梏"
+      ],
+      "words": [
+        "桎梏"
+      ]
+    },
+    {
+      "num": 16,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "동료가 내 일에 毁謗을 놓았다.",
+      "answer": "훼방",
+      "hanja": [
+        "毁",
+        "謗"
+      ],
+      "words": [
+        "毁謗"
+      ]
+    },
+    {
+      "num": 17,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "나로서는 그녀의 오해를 拂拭시키는 일이 가장 시급했다.",
+      "answer": "불식",
+      "hanja": [
+        "拂",
+        "拭"
+      ],
+      "words": [
+        "拂拭"
+      ]
+    },
+    {
+      "num": 18,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "그는 내 가족에 대해 심하게 詛呪를 했다.",
+      "answer": "저주",
+      "hanja": [
+        "呪",
+        "詛"
+      ],
+      "words": [
+        "詛呪"
+      ]
+    },
+    {
+      "num": 19,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "이번 행사에서는 抽籤을 통해 다양한 경품을 제공하고 있다.",
+      "answer": "추첨",
+      "hanja": [
+        "抽",
+        "籤"
+      ],
+      "words": [
+        "抽籤"
+      ]
+    },
+    {
+      "num": 20,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "마감 시간이 촉박하여 원고를 推敲할 시간적 여유가 없었다.",
+      "answer": "퇴고",
+      "hanja": [
+        "推",
+        "敲"
+      ],
+      "words": [
+        "推敲"
+      ]
+    },
+    {
+      "num": 21,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "喝采",
+      "answer": "갈채",
+      "hanja": [
+        "喝",
+        "采"
+      ],
+      "words": [
+        "喝采"
+      ]
+    },
+    {
+      "num": 22,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "杜鵑",
+      "answer": "두견",
+      "hanja": [
+        "杜",
+        "鵑"
+      ],
+      "words": [
+        "杜鵑"
+      ]
+    },
+    {
+      "num": 23,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "擾亂",
+      "answer": "요란",
+      "hanja": [
+        "亂",
+        "擾"
+      ],
+      "words": [
+        "擾亂"
+      ]
+    },
+    {
+      "num": 24,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "陋巷",
+      "answer": "누항",
+      "hanja": [
+        "巷",
+        "陋"
+      ],
+      "words": [
+        "陋巷"
+      ]
+    },
+    {
+      "num": 25,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "痰咳",
+      "answer": "담해",
+      "hanja": [
+        "咳",
+        "痰"
+      ],
+      "words": [
+        "痰咳"
+      ]
+    },
+    {
+      "num": 26,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "囹圄",
+      "answer": "영어",
+      "hanja": [
+        "囹",
+        "圄"
+      ],
+      "words": [
+        "囹圄"
+      ]
+    },
+    {
+      "num": 27,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "玉佩",
+      "answer": "옥패",
+      "hanja": [
+        "佩",
+        "玉"
+      ],
+      "words": [
+        "玉佩"
+      ]
+    },
+    {
+      "num": 28,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "細簾",
+      "answer": "세렴",
+      "hanja": [
+        "簾",
+        "細"
+      ],
+      "words": [
+        "細簾"
+      ]
+    },
+    {
+      "num": 29,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "軋刑",
+      "answer": "알형",
+      "hanja": [
+        "刑",
+        "軋"
+      ],
+      "words": [
+        "軋刑"
+      ]
+    },
+    {
+      "num": 30,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "瑕疵",
+      "answer": "하자",
+      "hanja": [
+        "瑕",
+        "疵"
+      ],
+      "words": [
+        "瑕疵"
+      ]
+    },
+    {
+      "num": 31,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "斑煮",
+      "answer": "반자",
+      "hanja": [
+        "斑",
+        "煮"
+      ],
+      "words": [
+        "斑煮"
+      ]
+    },
+    {
+      "num": 32,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "侵蝕",
+      "answer": "침식",
+      "hanja": [
+        "侵",
+        "蝕"
+      ],
+      "words": [
+        "侵蝕"
+      ]
+    },
+    {
+      "num": 33,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "罹災",
+      "answer": "이재",
+      "hanja": [
+        "災",
+        "罹"
+      ],
+      "words": [
+        "罹災"
+      ]
+    },
+    {
+      "num": 34,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "膺懲",
+      "answer": "응징",
+      "hanja": [
+        "懲",
+        "膺"
+      ],
+      "words": [
+        "膺懲"
+      ]
+    },
+    {
+      "num": 35,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "掃蕩",
+      "answer": "소탕",
+      "hanja": [
+        "掃",
+        "蕩"
+      ],
+      "words": [
+        "掃蕩"
+      ]
+    },
+    {
+      "num": 36,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "嗅覺",
+      "answer": "후각",
+      "hanja": [
+        "嗅",
+        "覺"
+      ],
+      "words": [
+        "嗅覺"
+      ]
+    },
+    {
+      "num": 37,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "黜陟",
+      "answer": "출척",
+      "hanja": [
+        "陟",
+        "黜"
+      ],
+      "words": [
+        "黜陟"
+      ]
+    },
+    {
+      "num": 38,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "凌辱",
+      "answer": "능욕",
+      "hanja": [
+        "凌",
+        "辱"
+      ],
+      "words": [
+        "凌辱"
+      ]
+    },
+    {
+      "num": 39,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "奢侈",
+      "answer": "사치",
+      "hanja": [
+        "侈",
+        "奢"
+      ],
+      "words": [
+        "奢侈"
+      ]
+    },
+    {
+      "num": 40,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "矜持",
+      "answer": "긍지",
+      "hanja": [
+        "持",
+        "矜"
+      ],
+      "words": [
+        "矜持"
+      ]
+    },
+    {
+      "num": 41,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "支撐",
+      "answer": "지탱",
+      "hanja": [
+        "撐",
+        "支"
+      ],
+      "words": [
+        "支撐"
+      ]
+    },
+    {
+      "num": 42,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "搾取",
+      "answer": "착취",
+      "hanja": [
+        "取",
+        "搾"
+      ],
+      "words": [
+        "搾取"
+      ]
+    },
+    {
+      "num": 43,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "釐毫",
+      "answer": "이호",
+      "hanja": [
+        "毫",
+        "釐"
+      ],
+      "words": [
+        "釐毫"
+      ]
+    },
+    {
+      "num": 44,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "移徙",
+      "answer": "이사",
+      "hanja": [
+        "徙",
+        "移"
+      ],
+      "words": [
+        "移徙"
+      ]
+    },
+    {
+      "num": 45,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "穿鑿",
+      "answer": "천착",
+      "hanja": [
+        "穿",
+        "鑿"
+      ],
+      "words": [
+        "穿鑿"
+      ]
+    },
+    {
+      "num": 46,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "酬酌",
+      "answer": "수작",
+      "hanja": [
+        "酌",
+        "酬"
+      ],
+      "words": [
+        "酬酌"
+      ]
+    },
+    {
+      "num": 47,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "截脚",
+      "answer": "절각",
+      "hanja": [
+        "截",
+        "脚"
+      ],
+      "words": [
+        "截脚"
+      ]
+    },
+    {
+      "num": 48,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "懺悔",
+      "answer": "참회",
+      "hanja": [
+        "悔",
+        "懺"
+      ],
+      "words": [
+        "懺悔"
+      ]
+    },
+    {
+      "num": 49,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "礫塊",
+      "answer": "역괴",
+      "hanja": [
+        "塊",
+        "礫"
+      ],
+      "words": [
+        "礫塊"
+      ]
+    },
+    {
+      "num": 50,
+      "type": "讀音",
+      "typeLabel": "독음 쓰기",
+      "prompt": "款洽",
+      "answer": "관흡",
+      "hanja": [
+        "款",
+        "洽"
+      ],
+      "words": [
+        "款洽"
+      ]
+    },
+    {
+      "num": 51,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "貂",
+      "answer": "담비 초",
+      "hanja": [
+        "貂"
+      ],
+      "words": []
+    },
+    {
+      "num": 52,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "碩",
+      "answer": "클 석",
+      "hanja": [
+        "碩"
+      ],
+      "words": []
+    },
+    {
+      "num": 53,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "貶",
+      "answer": "낮출 폄",
+      "hanja": [
+        "貶"
+      ],
+      "words": []
+    },
+    {
+      "num": 54,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "頒",
+      "answer": "나눌 반",
+      "hanja": [
+        "頒"
+      ],
+      "words": []
+    },
+    {
+      "num": 55,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "磁",
+      "answer": "자석 자",
+      "hanja": [
+        "磁"
+      ],
+      "words": []
+    },
+    {
+      "num": 56,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "遮",
+      "answer": "가릴 차",
+      "hanja": [
+        "遮"
+      ],
+      "words": []
+    },
+    {
+      "num": 57,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "袞",
+      "answer": "곤룡포 곤",
+      "hanja": [
+        "袞"
+      ],
+      "words": []
+    },
+    {
+      "num": 58,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "遝",
+      "answer": "뒤섞일 답",
+      "hanja": [
+        "遝"
+      ],
+      "words": []
+    },
+    {
+      "num": 59,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "罵",
+      "answer": "꾸짖을 매",
+      "hanja": [
+        "罵"
+      ],
+      "words": []
+    },
+    {
+      "num": 60,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "渦",
+      "answer": "소용돌이 와",
+      "hanja": [
+        "渦"
+      ],
+      "words": []
+    },
+    {
+      "num": 61,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "姸",
+      "answer": "고울 연",
+      "hanja": [
+        "姸"
+      ],
+      "words": []
+    },
+    {
+      "num": 62,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "搏",
+      "answer": "두드릴 박",
+      "hanja": [
+        "搏"
+      ],
+      "words": []
+    },
+    {
+      "num": 63,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "刪",
+      "answer": "깎을 산",
+      "hanja": [
+        "刪"
+      ],
+      "words": []
+    },
+    {
+      "num": 64,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "繪",
+      "answer": "그림 회",
+      "hanja": [
+        "繪"
+      ],
+      "words": []
+    },
+    {
+      "num": 65,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "邁",
+      "answer": "갈[行] 매",
+      "hanja": [
+        "邁"
+      ],
+      "words": []
+    },
+    {
+      "num": 66,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "哮",
+      "answer": "성낼 효",
+      "hanja": [
+        "哮"
+      ],
+      "words": []
+    },
+    {
+      "num": 67,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "戚",
+      "answer": "친척 척",
+      "hanja": [
+        "戚"
+      ],
+      "words": []
+    },
+    {
+      "num": 68,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "寨",
+      "answer": "목책(木柵) 채",
+      "hanja": [
+        "寨"
+      ],
+      "words": []
+    },
+    {
+      "num": 69,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "悴",
+      "answer": "파리할 췌",
+      "hanja": [
+        "悴"
+      ],
+      "words": []
+    },
+    {
+      "num": 70,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "闡",
+      "answer": "밝힐 천",
+      "hanja": [
+        "闡"
+      ],
+      "words": []
+    },
+    {
+      "num": 71,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "跳",
+      "answer": "뛸 도",
+      "hanja": [
+        "跳"
+      ],
+      "words": []
+    },
+    {
+      "num": 72,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "蔗",
+      "answer": "사탕수수 자",
+      "hanja": [
+        "蔗"
+      ],
+      "words": []
+    },
+    {
+      "num": 73,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "虜",
+      "answer": "사로잡을 로",
+      "hanja": [
+        "虜"
+      ],
+      "words": []
+    },
+    {
+      "num": 74,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "斃",
+      "answer": "죽을 폐",
+      "hanja": [
+        "斃"
+      ],
+      "words": []
+    },
+    {
+      "num": 75,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "儺",
+      "answer": "푸닥거리 나",
+      "hanja": [
+        "儺"
+      ],
+      "words": []
+    },
+    {
+      "num": 76,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "覡",
+      "answer": "박수[男巫] 격",
+      "hanja": [
+        "覡"
+      ],
+      "words": []
+    },
+    {
+      "num": 77,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "杳",
+      "answer": "아득할 묘",
+      "hanja": [
+        "杳"
+      ],
+      "words": []
+    },
+    {
+      "num": 78,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "擲",
+      "answer": "던질 척",
+      "hanja": [
+        "擲"
+      ],
+      "words": []
+    },
+    {
+      "num": 79,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "輦",
+      "answer": "가마 련",
+      "hanja": [
+        "輦"
+      ],
+      "words": []
+    },
+    {
+      "num": 80,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "詭",
+      "answer": "속일 궤",
+      "hanja": [
+        "詭"
+      ],
+      "words": []
+    },
+    {
+      "num": 81,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "悛",
+      "answer": "고칠 전",
+      "hanja": [
+        "悛"
+      ],
+      "words": []
+    },
+    {
+      "num": 82,
+      "type": "訓音",
+      "typeLabel": "훈·음 쓰기",
+      "prompt": "廏",
+      "answer": "마구 구",
+      "hanja": [
+        "廏"
+      ],
+      "words": []
+    },
+    {
+      "num": 83,
+      "type": "部首",
+      "typeLabel": "부수 쓰기",
+      "prompt": "嬰",
+      "answer": "女",
+      "hanja": [
+        "嬰"
+      ],
+      "words": []
+    },
+    {
+      "num": 84,
+      "type": "部首",
+      "typeLabel": "부수 쓰기",
+      "prompt": "鞏",
+      "answer": "革",
+      "hanja": [
+        "鞏"
+      ],
+      "words": []
+    },
+    {
+      "num": 85,
+      "type": "部首",
+      "typeLabel": "부수 쓰기",
+      "prompt": "娶",
+      "answer": "女",
+      "hanja": [
+        "娶"
+      ],
+      "words": []
+    },
+    {
+      "num": 86,
+      "type": "部首",
+      "typeLabel": "부수 쓰기",
+      "prompt": "缸",
+      "answer": "缶",
+      "hanja": [
+        "缸"
+      ],
+      "words": []
+    },
+    {
+      "num": 87,
+      "type": "部首",
+      "typeLabel": "부수 쓰기",
+      "prompt": "鳩",
+      "answer": "鳥",
+      "hanja": [
+        "鳩"
+      ],
+      "words": []
+    },
+    {
+      "num": 88,
+      "type": "部首",
+      "typeLabel": "부수 쓰기",
+      "prompt": "凰",
+      "answer": "几",
+      "hanja": [
+        "凰"
+      ],
+      "words": []
+    },
+    {
+      "num": 89,
+      "type": "部首",
+      "typeLabel": "부수 쓰기",
+      "prompt": "灸",
+      "answer": "火",
+      "hanja": [
+        "灸"
+      ],
+      "words": []
+    },
+    {
+      "num": 90,
+      "type": "部首",
+      "typeLabel": "부수 쓰기",
+      "prompt": "甦",
+      "answer": "生",
+      "hanja": [
+        "甦"
+      ],
+      "words": []
+    },
+    {
+      "num": 91,
+      "type": "部首",
+      "typeLabel": "부수 쓰기",
+      "prompt": "乖",
+      "answer": "丿",
+      "hanja": [
+        "乖"
+      ],
+      "words": []
+    },
+    {
+      "num": 92,
+      "type": "部首",
+      "typeLabel": "부수 쓰기",
+      "prompt": "寓",
+      "answer": "宀",
+      "hanja": [
+        "寓"
+      ],
+      "words": []
+    },
+    {
+      "num": 93,
+      "type": "略字",
+      "typeLabel": "약자 쓰기",
+      "prompt": "貳",
+      "answer": "弍 弐",
+      "hanja": [
+        "貳"
+      ],
+      "words": []
+    },
+    {
+      "num": 94,
+      "type": "略字",
+      "typeLabel": "약자 쓰기",
+      "prompt": "倂",
+      "answer": "併",
+      "hanja": [
+        "倂"
+      ],
+      "words": []
+    },
+    {
+      "num": 95,
+      "type": "略字",
+      "typeLabel": "약자 쓰기",
+      "prompt": "棄",
+      "answer": "弃",
+      "hanja": [
+        "棄"
+      ],
+      "words": []
+    },
+    {
+      "num": 96,
+      "type": "長音",
+      "typeLabel": "장음 고르기",
+      "prompt": "① 減毒  ② 監督",
+      "answer": "① 減毒",
+      "hanja": [
+        "毒",
+        "減",
+        "監",
+        "督"
+      ],
+      "words": [
+        "減毒",
+        "監督"
+      ]
+    },
+    {
+      "num": 97,
+      "type": "長音",
+      "typeLabel": "장음 고르기",
+      "prompt": "① 動機  ② 銅器",
+      "answer": "① 動機",
+      "hanja": [
+        "動",
+        "器",
+        "機",
+        "銅"
+      ],
+      "words": [
+        "動機",
+        "銅器"
+      ]
+    },
+    {
+      "num": 98,
+      "type": "長音",
+      "typeLabel": "장음 고르기",
+      "prompt": "① 埋葬  ② 賣場",
+      "answer": "② 賣場",
+      "hanja": [
+        "埋",
+        "場",
+        "葬",
+        "賣"
+      ],
+      "words": [
+        "埋葬",
+        "賣場"
+      ]
+    },
+    {
+      "num": 99,
+      "type": "長音",
+      "typeLabel": "장음 고르기",
+      "prompt": "① 夫子  ② 富者",
+      "answer": "② 富者",
+      "hanja": [
+        "夫",
+        "子",
+        "富",
+        "者"
+      ],
+      "words": [
+        "夫子",
+        "富者"
+      ]
+    },
+    {
+      "num": 100,
+      "type": "長音",
+      "typeLabel": "장음 고르기",
+      "prompt": "① 史實  ② 私室",
+      "answer": "① 史實",
+      "hanja": [
+        "史",
+        "室",
+        "實",
+        "私"
+      ],
+      "words": [
+        "史實",
+        "私室"
+      ]
+    },
+    {
+      "num": 101,
+      "type": "長音",
+      "typeLabel": "장음 고르기",
+      "prompt": "① 聯句  ② 硏究",
+      "answer": "② 硏究",
+      "hanja": [
+        "句",
+        "硏",
+        "究",
+        "聯"
+      ],
+      "words": [
+        "聯句",
+        "硏究"
+      ]
+    },
+    {
+      "num": 102,
+      "type": "長音",
+      "typeLabel": "장음 고르기",
+      "prompt": "① 長壽  ② 將帥",
+      "answer": "② 將帥",
+      "hanja": [
+        "壽",
+        "將",
+        "帥",
+        "長"
+      ],
+      "words": [
+        "長壽",
+        "將帥"
+      ]
+    },
+    {
+      "num": 103,
+      "type": "長音",
+      "typeLabel": "장음 고르기",
+      "prompt": "① 漢文  ② 寒門",
+      "answer": "① 漢文",
+      "hanja": [
+        "寒",
+        "文",
+        "漢",
+        "門"
+      ],
+      "words": [
+        "漢文",
+        "寒門"
+      ]
+    },
+    {
+      "num": 104,
+      "type": "長音",
+      "typeLabel": "장음 고르기",
+      "prompt": "① 該當  ② 海棠",
+      "answer": "② 海棠",
+      "hanja": [
+        "棠",
+        "海",
+        "當",
+        "該"
+      ],
+      "words": [
+        "該當",
+        "海棠"
+      ]
+    },
+    {
+      "num": 105,
+      "type": "長音",
+      "typeLabel": "장음 고르기",
+      "prompt": "① 好男  ② 湖南",
+      "answer": "① 好男",
+      "hanja": [
+        "南",
+        "好",
+        "湖",
+        "男"
+      ],
+      "words": [
+        "好男",
+        "湖南"
+      ]
+    },
+    {
+      "num": 106,
+      "type": "類義字",
+      "typeLabel": "유의자",
+      "prompt": "비행기 墜(  )으로 많은 인명 피해가 발생했다.",
+      "answer": "落",
+      "hanja": [
+        "墜"
+      ],
+      "words": []
+    },
+    {
+      "num": 107,
+      "type": "類義字",
+      "typeLabel": "유의자",
+      "prompt": "전투기에 미사일을 搭(  )하였다.",
+      "answer": "載",
+      "hanja": [
+        "搭"
+      ],
+      "words": []
+    },
+    {
+      "num": 108,
+      "type": "類義字",
+      "typeLabel": "유의자",
+      "prompt": "살을 빼려면 유산소 운동으로 체내의 (  )肪을 연소시켜야 한다.",
+      "answer": "脂",
+      "hanja": [
+        "肪"
+      ],
+      "words": []
+    },
+    {
+      "num": 109,
+      "type": "類義字",
+      "typeLabel": "유의자",
+      "prompt": "스님께서 (  )昧한 저희를 깨우쳐 주셔서 고맙습니다.",
+      "answer": "蒙",
+      "hanja": [
+        "昧"
+      ],
+      "words": []
+    },
+    {
+      "num": 110,
+      "type": "類義字",
+      "typeLabel": "유의자",
+      "prompt": "기근으로 말미암은 백성들의 逼(  )은 이루 말할 수 없었다.",
+      "answer": "迫",
+      "hanja": [
+        "逼"
+      ],
+      "words": []
+    },
+    {
+      "num": 111,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "簡擢",
+      "answer": "選拔",
+      "hanja": [
+        "擢",
+        "簡"
+      ],
+      "words": [
+        "簡擢"
+      ]
+    },
+    {
+      "num": 112,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "惻隱",
+      "answer": "可憐",
+      "hanja": [
+        "惻",
+        "隱"
+      ],
+      "words": [
+        "惻隱"
+      ]
+    },
+    {
+      "num": 113,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "痼疾",
+      "answer": "宿患",
+      "hanja": [
+        "疾",
+        "痼"
+      ],
+      "words": [
+        "痼疾"
+      ]
+    },
+    {
+      "num": 114,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "妖術",
+      "answer": "魔法",
+      "hanja": [
+        "妖",
+        "術"
+      ],
+      "words": [
+        "妖術"
+      ]
+    },
+    {
+      "num": 115,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "奪胎",
+      "answer": "換骨",
+      "hanja": [
+        "奪",
+        "胎"
+      ],
+      "words": [
+        "奪胎"
+      ]
+    },
+    {
+      "num": 116,
+      "type": "反義字",
+      "typeLabel": "반의자",
+      "prompt": "법률 조항은 해석의 (  )狹에 따라 적용 범위가 달라질 수 있다.",
+      "answer": "廣",
+      "hanja": [
+        "狹"
+      ],
+      "words": []
+    },
+    {
+      "num": 117,
+      "type": "反義字",
+      "typeLabel": "반의자",
+      "prompt": "왕은 嫡(  )의 차별을 철폐하고자 하였다.",
+      "answer": "庶",
+      "hanja": [
+        "嫡"
+      ],
+      "words": []
+    },
+    {
+      "num": 118,
+      "type": "反義字",
+      "typeLabel": "반의자",
+      "prompt": "업무를 처리할 때는 개인적인 (  )疎 관계를 배제해야 한다.",
+      "answer": "親",
+      "hanja": [
+        "疎"
+      ],
+      "words": []
+    },
+    {
+      "num": 119,
+      "type": "反義字",
+      "typeLabel": "반의자",
+      "prompt": "아파트에 (  )降기 공사가 진행 중이다.",
+      "answer": "昇",
+      "hanja": [
+        "降"
+      ],
+      "words": []
+    },
+    {
+      "num": 120,
+      "type": "反義字",
+      "typeLabel": "반의자",
+      "prompt": "두 사람의 관계는 먼 촌수의 叔(  ) 간이었다.",
+      "answer": "姪",
+      "hanja": [
+        "叔"
+      ],
+      "words": []
+    },
+    {
+      "num": 121,
+      "type": "反義語",
+      "typeLabel": "반대어 쓰기",
+      "prompt": "順坦",
+      "answer": "險難",
+      "hanja": [
+        "坦",
+        "順"
+      ],
+      "words": [
+        "順坦"
+      ]
+    },
+    {
+      "num": 122,
+      "type": "反義語",
+      "typeLabel": "반대어 쓰기",
+      "prompt": "永劫",
+      "answer": "瞬間",
+      "hanja": [
+        "劫",
+        "永"
+      ],
+      "words": [
+        "永劫"
+      ]
+    },
+    {
+      "num": 123,
+      "type": "反義語",
+      "typeLabel": "반대어 쓰기",
+      "prompt": "羞恥",
+      "answer": "榮光",
+      "hanja": [
+        "恥",
+        "羞"
+      ],
+      "words": [
+        "羞恥"
+      ]
+    },
+    {
+      "num": 124,
+      "type": "反義語",
+      "typeLabel": "반대어 쓰기",
+      "prompt": "留保",
+      "answer": "決定",
+      "hanja": [
+        "保",
+        "留"
+      ],
+      "words": [
+        "留保"
+      ]
+    },
+    {
+      "num": 125,
+      "type": "反義語",
+      "typeLabel": "반대어 쓰기",
+      "prompt": "粗雜",
+      "answer": "精密",
+      "hanja": [
+        "粗",
+        "雜"
+      ],
+      "words": [
+        "粗雜"
+      ]
+    },
+    {
+      "num": 126,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "(角樓) 물시계.",
+      "answer": "刻漏",
+      "hanja": [
+        "樓",
+        "角"
+      ],
+      "words": [
+        "角樓"
+      ]
+    },
+    {
+      "num": 127,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "(看過) 방패와 창.",
+      "answer": "干戈",
+      "hanja": [
+        "看",
+        "過"
+      ],
+      "words": [
+        "看過"
+      ]
+    },
+    {
+      "num": 128,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "(拒絶) 근거지를 정하여 놓고 도둑질함.",
+      "answer": "據竊",
+      "hanja": [
+        "拒",
+        "絶"
+      ],
+      "words": [
+        "拒絶"
+      ]
+    },
+    {
+      "num": 129,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "(建造) 말라서 습기가 없음.",
+      "answer": "乾燥",
+      "hanja": [
+        "建",
+        "造"
+      ],
+      "words": [
+        "建造"
+      ]
+    },
+    {
+      "num": 130,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "(瓊粉) 놀라서 달아남.",
+      "answer": "驚奔",
+      "hanja": [
+        "瓊",
+        "粉"
+      ],
+      "words": [
+        "瓊粉"
+      ]
+    },
+    {
+      "num": 131,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "(警衛) 일이 진행되어 온 과정.",
+      "answer": "經緯",
+      "hanja": [
+        "衛",
+        "警"
+      ],
+      "words": [
+        "警衛"
+      ]
+    },
+    {
+      "num": 132,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "(癸巳) 본문에 딸려 그 말을 설명하는 말.",
+      "answer": "繫辭",
+      "hanja": [
+        "巳",
+        "癸"
+      ],
+      "words": [
+        "癸巳"
+      ]
+    },
+    {
+      "num": 133,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "(排除) 여러 가지 약제를 배합함.",
+      "answer": "配劑",
+      "hanja": [
+        "排",
+        "除"
+      ],
+      "words": [
+        "排除"
+      ]
+    },
+    {
+      "num": 134,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "(淸宇) 날이 갬과 비가 옴.",
+      "answer": "晴雨",
+      "hanja": [
+        "宇",
+        "淸"
+      ],
+      "words": [
+        "淸宇"
+      ]
+    },
+    {
+      "num": 135,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "(附表) 물 위에 떠서 이리저리 마구 떠돌아다님.",
+      "answer": "浮漂",
+      "hanja": [
+        "表",
+        "附"
+      ],
+      "words": [
+        "附表"
+      ]
+    },
+    {
+      "num": 136,
+      "type": "四字成語",
+      "typeLabel": "사자성어 완성",
+      "prompt": "畫龍(  )睛 : 무슨 일을 하는 데에 가장 중요한 부분을 완성함.",
+      "answer": "點",
+      "hanja": [
+        "畫",
+        "睛",
+        "龍"
+      ],
+      "words": [
+        "畫龍"
+      ]
+    },
+    {
+      "num": 137,
+      "type": "四字成語",
+      "typeLabel": "사자성어 완성",
+      "prompt": "錐處囊(  ) : 송곳이 주머니 속에 있음.",
+      "answer": "中",
+      "hanja": [
+        "囊",
+        "處",
+        "錐"
+      ],
+      "words": [
+        "錐處囊"
+      ]
+    },
+    {
+      "num": 138,
+      "type": "四字成語",
+      "typeLabel": "사자성어 완성",
+      "prompt": "狐(  )虎威 : 남의 권세를 빌려 위세를 부림.",
+      "answer": "假",
+      "hanja": [
+        "威",
+        "狐",
+        "虎"
+      ],
+      "words": [
+        "虎威"
+      ]
+    },
+    {
+      "num": 139,
+      "type": "四字成語",
+      "typeLabel": "사자성어 완성",
+      "prompt": "(  )飛魄散 : 혼백이 어지러이 흩어짐.",
+      "answer": "魂",
+      "hanja": [
+        "散",
+        "飛",
+        "魄"
+      ],
+      "words": [
+        "飛魄散"
+      ]
+    },
+    {
+      "num": 140,
+      "type": "四字成語",
+      "typeLabel": "사자성어 완성",
+      "prompt": "袖手(  )觀 : 팔짱을 끼고 보고만 있음.",
+      "answer": "傍",
+      "hanja": [
+        "手",
+        "袖",
+        "觀"
+      ],
+      "words": [
+        "袖手"
+      ]
+    },
+    {
+      "num": 141,
+      "type": "四字成語",
+      "typeLabel": "사자성어 완성",
+      "prompt": "星火燎(  ) : 작은 불씨가 퍼지면 넓은 들을 태움.",
+      "answer": "原",
+      "hanja": [
+        "星",
+        "火",
+        "燎"
+      ],
+      "words": [
+        "星火燎"
+      ]
+    },
+    {
+      "num": 142,
+      "type": "四字成語",
+      "typeLabel": "사자성어 완성",
+      "prompt": "迂餘曲(  ) : 뒤얽혀 복잡하여진 사정.",
+      "answer": "折",
+      "hanja": [
+        "曲",
+        "迂",
+        "餘"
+      ],
+      "words": [
+        "迂餘曲"
+      ]
+    },
+    {
+      "num": 143,
+      "type": "四字成語",
+      "typeLabel": "사자성어 완성",
+      "prompt": "焚書坑(  ) : 서적을 불태우고 유생을 구덩이에 묻어 죽임.",
+      "answer": "儒",
+      "hanja": [
+        "坑",
+        "書",
+        "焚"
+      ],
+      "words": [
+        "焚書坑"
+      ]
+    },
+    {
+      "num": 144,
+      "type": "四字成語",
+      "typeLabel": "사자성어 완성",
+      "prompt": "(  )馬加鞭 : 달리는 말에 채찍질함.",
+      "answer": "走",
+      "hanja": [
+        "加",
+        "鞭",
+        "馬"
+      ],
+      "words": [
+        "馬加鞭"
+      ]
+    },
+    {
+      "num": 145,
+      "type": "四字成語",
+      "typeLabel": "사자성어 완성",
+      "prompt": "口(  )腹劍 : 입에는 꿀이 있고 배 속에는 칼이 있음.",
+      "answer": "蜜",
+      "hanja": [
+        "劍",
+        "口",
+        "腹"
+      ],
+      "words": [
+        "腹劍"
+      ]
+    },
+    {
+      "num": 146,
+      "type": "四字成語",
+      "typeLabel": "사자성어 완성",
+      "prompt": "冬扇夏(  ) : 겨울의 부채와 여름의 화로.",
+      "answer": "爐",
+      "hanja": [
+        "冬",
+        "夏",
+        "扇"
+      ],
+      "words": [
+        "冬扇夏"
+      ]
+    },
+    {
+      "num": 147,
+      "type": "四字成語",
+      "typeLabel": "사자성어 완성",
+      "prompt": "(  )髮吐哺 : 감고 있던 머리를 거머쥐고 먹던 것을 뱉고 영접함.",
+      "answer": "握",
+      "hanja": [
+        "吐",
+        "哺",
+        "髮"
+      ],
+      "words": [
+        "髮吐哺"
+      ]
+    },
+    {
+      "num": 148,
+      "type": "四字成語",
+      "typeLabel": "사자성어 완성",
+      "prompt": "自家撞(  ) : 같은 사람의 말이나 행동이 앞뒤가 서로 맞지 아니함.",
+      "answer": "着",
+      "hanja": [
+        "家",
+        "撞",
+        "自"
+      ],
+      "words": [
+        "自家撞"
+      ]
+    },
+    {
+      "num": 149,
+      "type": "四字成語",
+      "typeLabel": "사자성어 완성",
+      "prompt": "十匙一(  ) : 밥 열 술이 밥 한 그릇이 됨.",
+      "answer": "飯",
+      "hanja": [
+        "一",
+        "匙",
+        "十"
+      ],
+      "words": [
+        "十匙一"
+      ]
+    },
+    {
+      "num": 150,
+      "type": "四字成語",
+      "typeLabel": "사자성어 완성",
+      "prompt": "磨斧爲(  ) : 도끼를 갈아 바늘을 만듦.",
+      "answer": "針",
+      "hanja": [
+        "斧",
+        "爲",
+        "磨"
+      ],
+      "words": [
+        "磨斧爲"
+      ]
+    },
+    {
+      "num": 151,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "익명의 부자가 거액의 성금을 기탁했다.",
+      "answer": "寄託",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 152,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "내가 잘못을 저질렀는데도 어머니는 야단을 치지 않으셨다.",
+      "answer": "惹端",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 153,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "갖은 굴욕과 신산의 세월을 보낸 후에 마침내 빛을 보았다.",
+      "answer": "辛酸",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 154,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "고막이 터질 듯한 시끄러운 소리에 잠이 깨었다.",
+      "answer": "鼓膜",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 155,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "대도시에서는 연탄을 때워 난방을 하는 집을 찾아보기 힘들다.",
+      "answer": "煉炭",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 156,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "그동안 도와주신 여러 관계자분께 수훈의 영광을 돌립니다.",
+      "answer": "受勳",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 157,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "최근 발굴된 왕릉 내에 도굴을 당한 흔적이 있었다.",
+      "answer": "盜掘",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 158,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "어부들이 낚싯대를 손에 들고 어롱을 허리에 매고 있다.",
+      "answer": "魚籠",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 159,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "이 음료수는 농축된 과즙을 넣어 만들었다.",
+      "answer": "濃縮",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 160,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "그 신문은 신간 서적에 대한 소개로 두 면이나 할애했다.",
+      "answer": "紹介",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 161,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "아저씨는 번식을 위하여 사슴을 야산에 방목하였다.",
+      "answer": "繁殖/蕃息",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 162,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "그녀는 은행에서 학비의 융자를 신청하였다.",
+      "answer": "融資",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 163,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "정부는 의약품 남용에 대한 조치를 강구할 것이라고 밝혔다.",
+      "answer": "措置",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 164,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "죽은 친구의 환영이 눈앞에서 어른거렸다.",
+      "answer": "幻影",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 165,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "외갓집으로 들어서는 길은 아직도 포장이 안 되었다.",
+      "answer": "鋪裝",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 166,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "선입견에 사로잡히면 오류에 빠질 가능성이 높다.",
+      "answer": "誤謬",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 167,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "그는 어린 시절을 깊은 산속 벽곡에서 보냈다.",
+      "answer": "僻谷",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 168,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "이번 간첩 사건으로 동해에 대한 초계 업무를 강화했다.",
+      "answer": "哨戒",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 169,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "그 정치가는 대중을 매혹하는 탁월한 웅변술의 소유자이다.",
+      "answer": "魅惑",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 170,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "우리는 그녀가 보궐 선거에 출마하는 것을 만장일치로 찬성하였다.",
+      "answer": "補闕",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 171,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "기화요초 난만 중에 꽃 속에 잠든 나비 자취 없이 날아든다.",
+      "answer": "爛漫",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 172,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "이 소설은 우리 사회의 구조적 모순을 단적으로 보여준다.",
+      "answer": "矛盾",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 173,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "오빠는 졸부에 대한 멸시의 감정을 노골적으로 드러내었다.",
+      "answer": "蔑視",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 174,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "우리는 머리 위로 지나가는 폭격기에 간담이 서늘했다.",
+      "answer": "肝膽",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 175,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "드론을 띄워 적진을 정찰했다.",
+      "answer": "偵察",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 176,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "범인의 음침한 얼굴에서 잔혹과 비정을 떠올렸다.",
+      "answer": "殘酷",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 177,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "애도의 뜻으로 반기를 게양했다.",
+      "answer": "哀悼",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 178,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "그녀는 인간관계가 매우 원활하다.",
+      "answer": "圓滑",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 179,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "창랑이 부서지는 절벽 위에 정자가 들어앉아 있다.",
+      "answer": "滄浪",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 180,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "의사 선생님들이 병실을 회진할 시간이 다가왔다.",
+      "answer": "回診",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 181,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "(예금) 일정한 계약에 의하여 은행이나 우체국 따위에 돈을 맡기는 일.",
+      "answer": "預金",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 182,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "(탈모) 모자나 안전모 따위를 벗음.",
+      "answer": "脫帽",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 183,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "(일용) 날삯을 받고 파는 품.",
+      "answer": "日傭",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 184,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "(삽입) 틈이나 구멍 사이에 다른 물체를 끼워 넣음.",
+      "answer": "揷入",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 185,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "(질식) 숨통이 막히거나 산소가 부족하여 숨을 쉴 수 없게 됨.",
+      "answer": "窒息",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 186,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "(봉제) 재봉틀이나 손으로 바느질하여 의류나 완구 따위의 제품을 만듦.",
+      "answer": "縫製",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 187,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "(만용) 분별없이 함부로 날뛰는 용맹.",
+      "answer": "蠻勇",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 188,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "(범람) 바람직하지 못한 것들이 마구 쏟아져 돌아다님.",
+      "answer": "汎濫/氾濫",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 189,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "(정로) 드러나거나 나타남.",
+      "answer": "呈露",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 190,
+      "type": "漢字쓰기",
+      "typeLabel": "한자어 정자 쓰기",
+      "prompt": "(철거) 건물, 시설 따위를 무너뜨려 없애거나 걷어치움.",
+      "answer": "撤去",
+      "hanja": [],
+      "words": []
+    },
+    {
+      "num": 191,
+      "type": "뜻풀이",
+      "typeLabel": "한자어 뜻풀이",
+      "prompt": "撰述",
+      "answer": "책이나 글을 지음.",
+      "hanja": [
+        "撰",
+        "述"
+      ],
+      "words": [
+        "撰述"
+      ]
+    },
+    {
+      "num": 192,
+      "type": "뜻풀이",
+      "typeLabel": "한자어 뜻풀이",
+      "prompt": "挽歌",
+      "answer": "죽은 이를 애도하는 노래",
+      "hanja": [
+        "挽",
+        "歌"
+      ],
+      "words": [
+        "挽歌"
+      ]
+    },
+    {
+      "num": 193,
+      "type": "뜻풀이",
+      "typeLabel": "한자어 뜻풀이",
+      "prompt": "甲胄",
+      "answer": "갑옷과 투구.",
+      "hanja": [
+        "甲",
+        "胄"
+      ],
+      "words": [
+        "甲胄"
+      ]
+    },
+    {
+      "num": 194,
+      "type": "뜻풀이",
+      "typeLabel": "한자어 뜻풀이",
+      "prompt": "聳空",
+      "answer": "하늘에 우뚝 솟음.",
+      "hanja": [
+        "空",
+        "聳"
+      ],
+      "words": [
+        "聳空"
+      ]
+    },
+    {
+      "num": 195,
+      "type": "뜻풀이",
+      "typeLabel": "한자어 뜻풀이",
+      "prompt": "惰性",
+      "answer": "오래되어 굳어진 좋지 않은 버릇.",
+      "hanja": [
+        "性",
+        "惰"
+      ],
+      "words": [
+        "惰性"
+      ]
+    },
+    {
+      "num": 196,
+      "type": "뜻풀이",
+      "typeLabel": "한자어 뜻풀이",
+      "prompt": "恪固",
+      "answer": "삼가 굳게 지킴.",
+      "hanja": [
+        "固",
+        "恪"
+      ],
+      "words": [
+        "恪固"
+      ]
+    },
+    {
+      "num": 197,
+      "type": "뜻풀이",
+      "typeLabel": "한자어 뜻풀이",
+      "prompt": "摩擦",
+      "answer": "이해나 의견이 서로 다른 사람이나 집단 사이의 충돌/ 두 물체가 서로 닿아 비벼짐.",
+      "hanja": [
+        "摩",
+        "擦"
+      ],
+      "words": [
+        "摩擦"
+      ]
+    },
+    {
+      "num": 198,
+      "type": "뜻풀이",
+      "typeLabel": "한자어 뜻풀이",
+      "prompt": "船暈",
+      "answer": "뱃멀미.",
+      "hanja": [
+        "暈",
+        "船"
+      ],
+      "words": [
+        "船暈"
+      ]
+    },
+    {
+      "num": 199,
+      "type": "뜻풀이",
+      "typeLabel": "한자어 뜻풀이",
+      "prompt": "耐乏",
+      "answer": "물자가 없는 것을 참고 견딤.",
+      "hanja": [
+        "乏",
+        "耐"
+      ],
+      "words": [
+        "耐乏"
+      ]
+    },
+    {
+      "num": 200,
+      "type": "뜻풀이",
+      "typeLabel": "한자어 뜻풀이",
+      "prompt": "寵兒",
+      "answer": "많은 사람에게 특별한 사랑을 받는 사람.",
+      "hanja": [
+        "兒",
+        "寵"
+      ],
+      "words": [
+        "寵兒"
+      ]
+    }
+  ]
+}
