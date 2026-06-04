@@ -53,51 +53,55 @@ export default function Page() {
   };
 
   return (
-    <div className="layout">
-      <aside className="panel">
-        <header className="brand">
-          <h1>한자 지도</h1>
-          <div className="levels">
-            {(["4", "3", "2"] as Level[]).map((lv) => (
-              <button key={lv} className={level === lv ? "lv active" : "lv"} onClick={() => setLevel(lv)}>
-                {lv}급
-              </button>
-            ))}
-          </div>
-        </header>
-
-        <div className="modes">
-          <button className={mode === "map" ? "mode active" : "mode"} onClick={() => setMode("map")}>
-            🗺 지도
-          </button>
-          <button className={mode === "quiz" ? "mode active" : "mode"} onClick={() => setMode("quiz")}>
-            ✏ 문제풀이
-          </button>
-        </div>
-
-        <div className="search">
-          <input
-            placeholder="한자 · 음(가) · 훈(값) 검색"
-            value={query}
-            onChange={(e) => setQuery(e.target.value)}
-          />
-          {results.length > 0 && (
-            <div className="results">
-              {results.map((c) => (
-                <button key={c.char} className="result" onClick={() => { onSelect(c.char, "char"); setQuery(""); }}>
-                  <span className="rchar">{c.char}</span>
-                  <span className="rhun">{c.hun} {c.sori}</span>
+    <div className={`layout mode-${mode}`}>
+      <aside className="sidebar">
+        <div className="controls">
+          <header className="brand">
+            <h1>한자 지도</h1>
+            <div className="levels">
+              {(["4", "3", "2"] as Level[]).map((lv) => (
+                <button key={lv} className={level === lv ? "lv active" : "lv"} onClick={() => setLevel(lv)}>
+                  {lv}급
                 </button>
               ))}
             </div>
-          )}
+          </header>
+
+          <div className="modes">
+            <button className={mode === "map" ? "mode active" : "mode"} onClick={() => setMode("map")}>
+              🗺 지도
+            </button>
+            <button className={mode === "quiz" ? "mode active" : "mode"} onClick={() => setMode("quiz")}>
+              ✏ 문제풀이
+            </button>
+          </div>
+
+          <div className="search">
+            <input
+              placeholder="한자 · 음(가) · 훈(값) 검색"
+              value={query}
+              onChange={(e) => setQuery(e.target.value)}
+            />
+            {results.length > 0 && (
+              <div className="results">
+                {results.map((c) => (
+                  <button key={c.char} className="result" onClick={() => { onSelect(c.char, "char"); setQuery(""); }}>
+                    <span className="rchar">{c.char}</span>
+                    <span className="rhun">{c.hun} {c.sori}</span>
+                  </button>
+                ))}
+              </div>
+            )}
+          </div>
         </div>
 
-        {data && selected ? (
-          <Detail data={data} selected={selected} kind={kind} onSelect={onSelect} />
-        ) : (
-          <p className="muted">데이터 불러오는 중…</p>
-        )}
+        <div className="panel">
+          {data && selected ? (
+            <Detail data={data} selected={selected} kind={kind} onSelect={onSelect} />
+          ) : (
+            <p className="muted">데이터 불러오는 중…</p>
+          )}
+        </div>
       </aside>
 
       <main className="canvas">
